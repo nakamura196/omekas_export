@@ -1,0 +1,130 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/795",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1890-1919",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "H.M. Petit",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1905",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Sketched in 1904 and later published in Women's Home Companion, this drawing demonstrates grand neoclassical plans to expand the Department of Agriculture. The Department had long since outgrown the original 1868 construction, one of the oldest on the National Mall. By the turn of the century, almost 500 people worked there, and laboratory space was no longer sufficient for chemistry and botanical research programs. Plans for rebuilding the department came, in part, from the massive redesign of the National Mall proposed by the McMillan Commission in 1901 to construct the Mall as a sweeping vista of monuments bordered with museums and government buildings.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "550 x 269 px",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Photograph",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "US Commission on Fine Arts. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Monumental plans for the Department of Agriculture",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/717",
+            "o:id": 717
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:18+00:00"
+    },
+    "o:id": 795,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3190",
+            "o:id": 3190
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Monumental plans for the Department of Agriculture",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c5ef7c1a9c5c71fdc95f27bb5a41154579e97d42.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c5ef7c1a9c5c71fdc95f27bb5a41154579e97d42.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c5ef7c1a9c5c71fdc95f27bb5a41154579e97d42.jpg"
+    }
+}

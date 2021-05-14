@@ -1,0 +1,115 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/734",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1830-1859",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "William McLeod",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1844",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This landscape painting of Washington, DC, looks out from the area that is Union Station today onto the early US Capitol building. George Washington built two row houses to the right of the Capitol. Although this is a highly romanticized view of the city, when artist William McLeod painted this landscape in 1844, cows still roamed the Mall and much of the land around the Capitol remained undeveloped.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Painting",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Department of State Diplomatic Reception Rooms. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Early Washington, DC",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:10+00:00"
+    },
+    "o:id": 734,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3180",
+            "o:id": 3180
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Early Washington, DC",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8b243ca8d344b7dc8d39a6eec2e1891736f583cb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8b243ca8d344b7dc8d39a6eec2e1891736f583cb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8b243ca8d344b7dc8d39a6eec2e1891736f583cb.jpg"
+    }
+}

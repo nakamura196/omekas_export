@@ -1,0 +1,98 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/421",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "Pre-1800s",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "1800-1829",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "James Hoban",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "James Hoban was an Irish-born architect who won a competition in 1792 to design the home of the President. He moved from South Carolina to Washington, DC, to oversee the construction of his design. A neo-classicist, Hoban's design influenced the style of other government buildings in Washington, particularly the executive office buildings designed by George Hadfield. After British troops burned the White House in August 1814, Hoban was hired to oversee repairs and renovations to the building.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "White House Historical Association, White House Collection. View original image.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "James Hoban",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:21+00:00"
+    },
+    "o:id": 421,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3016",
+            "o:id": 3016
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "James Hoban",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7eeefedbb4c4df70f533e799d4b66d59f4ff1ab3.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7eeefedbb4c4df70f533e799d4b66d59f4ff1ab3.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7eeefedbb4c4df70f533e799d4b66d59f4ff1ab3.jpg"
+    }
+}

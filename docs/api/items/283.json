@@ -1,0 +1,110 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/283",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "James Earle Fraser ",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "05/29/1926 (dedicated)",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "John Ericsson (1803-1889), a Swedish-born engineer, made inventions and improvements critical to the Union's naval success in the United States Civil War. In particular, his design of the USS Monitor, the first Union ironclad ship, represented an important advance in naval armor and became a critical factor in the Civil War. Approved by Congress in 1916 and supported by funding from Americans of Scandinavian descent, the memorial was dedicated in the spring of 1926 by President Calvin Coolidge and Crown Prince Gustaf Adolf of Sweden. The sculpture includes a likeness of Ericsson and symbolic representations of adventure, labor, and vision.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "John Ericsson National Memorial",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/20",
+        "o:id": 20
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/553",
+            "o:id": 553
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:36:58+00:00"
+    },
+    "o:id": 283,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2928",
+            "o:id": 2928
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:08:30+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "John Ericsson National Memorial",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b38155ce6d0c108c5ca8bfd103c6ab217e0600fe.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b38155ce6d0c108c5ca8bfd103c6ab217e0600fe.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b38155ce6d0c108c5ca8bfd103c6ab217e0600fe.jpg"
+    }
+}

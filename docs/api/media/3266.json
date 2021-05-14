@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3266",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:identifier": [
+        {
+            "@value": "MS0594 Nationals and Athletics ribbons",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Edmund F. French baseball scrapbook and memorabilia collection, Historical Society of Washington, D.C.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:57+00:00"
+    },
+    "o:filename": "67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+    "o:id": 3266,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/919",
+        "o:id": 919
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3d6dda00cf466ca1cfd8a6b036e45ae5834c12c2e6e52317229a086791bb0f49",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/c5db83e946794d72087d9840ef247cde.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg"
+    }
+}

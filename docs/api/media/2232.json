@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2232",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:19:32+00:00"
+    },
+    "o:filename": "470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+    "o:id": 2232,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2231",
+        "o:id": 2231
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1369154fbef78eec81a1c15a61184d0fc05a5bd6e0221dde5d49717df643d8d4",
+    "o:size": null,
+    "o:source": "st peters.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/470c701332ed399d699dc4074d55d85f7b00028b.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/470c701332ed399d699dc4074d55d85f7b00028b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/470c701332ed399d699dc4074d55d85f7b00028b.jpg"
+    }
+}

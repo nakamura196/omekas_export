@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1961",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Promotional still for Elementary",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:55:24+00:00"
+    },
+    "o:filename": "396cff4ed118089f017bc15124cb708285d30b23.jpg",
+    "o:id": 1961,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1959",
+        "o:id": 1959
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/396cff4ed118089f017bc15124cb708285d30b23.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "00daaf2c9662b38b2aaf7279b27a722f467965cfe7c7de00f24ccfb51d162f9f",
+    "o:size": null,
+    "o:source": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTMyNDcxNjg2Nl5BMl5BanBnXkFtZTgwODM4NDQwMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/396cff4ed118089f017bc15124cb708285d30b23.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/396cff4ed118089f017bc15124cb708285d30b23.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/396cff4ed118089f017bc15124cb708285d30b23.jpg"
+    },
+    "o:title": "Promotional still for Elementary",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/396cff4ed118089f017bc15124cb708285d30b23.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/396cff4ed118089f017bc15124cb708285d30b23.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/396cff4ed118089f017bc15124cb708285d30b23.jpg"
+    }
+}

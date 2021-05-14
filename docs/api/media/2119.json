@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2119",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:33+00:00"
+    },
+    "o:filename": "fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+    "o:id": 2119,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2103",
+        "o:id": 2103
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e60ecb2008bbdb8e9c54f3b96eeec8509897d75b6a054919c6de64c6cfb5726e",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gilbert_Stuart_Thomas_Jefferson.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fffc0542aac19a817667c5a4d460445d8e043dbc.jpg"
+    }
+}

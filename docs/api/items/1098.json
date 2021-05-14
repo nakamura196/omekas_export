@@ -1,0 +1,89 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1098",
+    "@type": "o:Item",
+    "dcterms:title": [
+        {
+            "@value": "World War II Memorial",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/827",
+            "o:id": 827
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:30+00:00"
+    },
+    "o:id": 1098,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3357",
+            "o:id": 3357
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3358",
+            "o:id": 3358
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3359",
+            "o:id": 3359
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3360",
+            "o:id": 3360
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3361",
+            "o:id": 3361
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3362",
+            "o:id": 3362
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3363",
+            "o:id": 3363
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3364",
+            "o:id": 3364
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "World War II Memorial",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c4cf6373843b9012413853b4f509ea0632ce6406.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c4cf6373843b9012413853b4f509ea0632ce6406.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c4cf6373843b9012413853b4f509ea0632ce6406.jpg"
+    }
+}

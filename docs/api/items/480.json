@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/480",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1800-1829",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Margaret Bayard Smith",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Margaret Bayard Smith was a writer and a vital figure in the early social life of Washington, DC. Her letters and diaries provide some of the best descriptions of early Washington. In 1837 she recorded what the Mall looked like when she and her husband moved to Capitol Hill in 1800: \"Between the foot of the hill and the broad Potomac extended a wide plain, through which the Tiber wound its way. The romantic beauty of this little stream was not then deformed by wharves or other works of art.\"",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Hunt, Gailliard, ed. The First Forty Years of Washington Society. New York: Scribner, 1906. Quotation from page 10. View original document.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Margaret Bayard Smith",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:29+00:00"
+    },
+    "o:id": 480,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3025",
+            "o:id": 3025
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Margaret Bayard Smith",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg"
+    }
+}

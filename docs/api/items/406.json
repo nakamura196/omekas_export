@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/406",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1980-1999",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Glenna Goodacre",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Glenna Goodacre is the designer and sculptor of the Vietnam Women's Memorial, dedicated in November 1993. Goodacre wanted the memorial's figures to show despair, dedication, and hope of the nurses and servicewomen serving in Vietnam.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Photograph courtesy of Goodacre Studio.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Glenna Goodacre",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:18+00:00"
+    },
+    "o:id": 406,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3001",
+            "o:id": 3001
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Glenna Goodacre",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/980ae507dfe1c9be8c196bc22b5329681374ebe2.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/980ae507dfe1c9be8c196bc22b5329681374ebe2.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/980ae507dfe1c9be8c196bc22b5329681374ebe2.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1928",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T18:40:14+00:00"
+    },
+    "o:filename": "3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+    "o:id": 1928,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1927",
+        "o:id": 1927
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "f2a128596d14f6656426438adbc808b543a27b3f1056ada98e4ecac77bb0c18b",
+    "o:size": null,
+    "o:source": "platter.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3f24160543969ec16af0f952cd2f8467a2c840cf.jpg"
+    }
+}

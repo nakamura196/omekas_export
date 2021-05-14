@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/425",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1800-1829",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Alethia Browning Tanner",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Alethia Browning Tanner was an enslaved woman who ran her own vegetable market in Lafayette Square in front of the White House during the late 1700s and early 1800s. She was highly successful, counting President Thomas Jefferson among her customers. By 1810 she had saved enough to purchase her freedom: $1400. She continued to be successful in business, and was an important member of the early free black community of Washington, DC.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Moorland-Spingarn Research Center.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Alethia Browning Tanner",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:21+00:00"
+    },
+    "o:id": 425,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3020",
+            "o:id": 3020
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Alethia Browning Tanner",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/da505c364bca4526c0cef5581ad9babf0480781d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/da505c364bca4526c0cef5581ad9babf0480781d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/da505c364bca4526c0cef5581ad9babf0480781d.jpg"
+    }
+}

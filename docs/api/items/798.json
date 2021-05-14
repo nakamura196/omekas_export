@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/798",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Joseph Hooker",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "General Joseph Hooker commanded the Union Army of the Potomac during the American Civil War. Though he served throughout the war, reaching the rank of Major General, he is most remembered for suffering a major defeat at the Battle of Chancellorsville. Away from the battlefront, General Hooker's division sometimes encamped on the National Mall. After the war, the area near the present day Federal Triangle was referred to as \"Hooker's Division,\" a double-entendre referencing his troops' encampment and rampant prostitution in the neighborhood.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original image.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Joseph Hooker",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:19+00:00"
+    },
+    "o:id": 798,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3193",
+            "o:id": 3193
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Joseph Hooker",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5aba81e9a54b68e60d9acc333de71ddc32b28911.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5aba81e9a54b68e60d9acc333de71ddc32b28911.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5aba81e9a54b68e60d9acc333de71ddc32b28911.jpg"
+    }
+}

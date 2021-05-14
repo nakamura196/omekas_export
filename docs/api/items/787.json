@@ -1,0 +1,107 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/787",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1950-1979",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "10/14/1979",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The National March on Washington for Lesbian and Gay Rights, held on October 14, 1979, was inspired in part by the assassination of openly gay California politician Harvey Milk. The five issues the march supported included the end of anti-homosexual laws and a push for a ban on discrimination in the federal government based on sexual orientation. Thousands of people attended, and the event nationalized the movement for gay rights, which was previously fragmented and focused on problems in individual communities.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Vampiress144 via Wikimedia Commons. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "National March on Washington for Lesbian and Gay Rights",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/100",
+        "o:id": 100
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/711",
+            "o:id": 711
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:17+00:00"
+    },
+    "o:id": 787,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3182",
+            "o:id": 3182
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "National March on Washington for Lesbian and Gay Rights",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c1c65bba882b07c097fda3c968e6103c0e2b8f90.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c1c65bba882b07c097fda3c968e6103c0e2b8f90.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c1c65bba882b07c097fda3c968e6103c0e2b8f90.jpg"
+    }
+}

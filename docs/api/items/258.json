@@ -1,0 +1,72 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/258",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "John Murray is an English publisher, known for the authors it has published in its history, including Jane Austen, Sir Arthur Conan Doyle, Lord Byron, Charles Lyell, Johann Wolfgang von Goethe, Herman Melville, Edward Whymper, and Charles Darwin. The business was founded in London in 1768 by John Murray I (1737–1793), an Edinburgh-born Royal Marines officer, who built up a list of authors including Isaac D'Israeli and published the English Review.\r\n\r\n",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/John_Murray_(publisher)",
+            "is_public": true,
+            "o:label": "Wikipedia entry",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "John Murray (publisher)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:50:41+00:00"
+    },
+    "o:id": 258,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/259",
+            "o:id": 259
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:31:03+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "John Murray (publisher)",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c96239769be1116ef990b137244a0f974249d8f.jpg"
+    }
+}

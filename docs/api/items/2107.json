@@ -1,0 +1,129 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2107",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Gilbert Stuart",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2094",
+            "display_title": "Gilbert Stuart",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarah_Goodridge_-_Gilbert_Stuart_-_Google_Art_Project.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2094,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "between 1810 and 1815",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This likeness was Stuart's only completed picture of Abigail Smith Adams. It and its companion piece of her husband, John Adams, were started in 1800 but not delivered until 1815. The Adams' eldest son and the future sixth president, John Quincy Adams, politely stated his family's attitude toward the artist's procrastination: \"Mr. Stuart thinks it the prerogative of genius to disdain the performance of his engagements.\"",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1954.7.2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:medium": [
+        {
+            "@value": "oil on canvas",
+            "is_public": true,
+            "property_id": 26,
+            "property_label": "Medium",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Gallery of Art",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Portrait of Abigail Smith Adams",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:41+00:00"
+    },
+    "o:id": 2107,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2123",
+            "o:id": 2123
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Portrait of Abigail Smith Adams",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/850730370d92794fa7aaada6752f89655da967de.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/850730370d92794fa7aaada6752f89655da967de.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/850730370d92794fa7aaada6752f89655da967de.jpg"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/906",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "07/24/1921",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This newspaper article describes the recreational activities which were free or low-cost in the area today known as East and West Potomac Park. In the 1920s, the part of Independence Avenue which stretches into West Potomac Park was called the Speedway. There was a beach, tennis courts, a golf course, baseball diamonds, a picnic area, and even garden plots rented by the year. However, while most of these activities were free, at least some of them was segregated by race.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "newspaper article",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "The Washington Post.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Speedway Land an ideal playground for rich and poor of the District",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/763",
+            "o:id": 763
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:39+00:00"
+    },
+    "o:id": 906,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3253",
+            "o:id": 3253
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:06:05+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Speedway Land an ideal playground for rich and poor of the District",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/07bb24c7269ddb47c913d14d0b91612ff8b4e4bc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/07bb24c7269ddb47c913d14d0b91612ff8b4e4bc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/07bb24c7269ddb47c913d14d0b91612ff8b4e4bc.jpg"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/618",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "6/30/1937-7/9/1937",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The 1937 Boy Scout Jamboree was the first ever “jambo” event, now held every four years. 25,000 Scouts from around the country attended the event, camping for more than a week around the Washington Monument and Tidal Basin. Scouts rode in the Goodyear blimp, toured the city, and went to baseball games. Professional chefs who were unemployed during the Depression prepared food for the encampment in large centralized tents. President Franklin Roosevelt conducted a grand review of the Scouts in formation on Pennsylvania Avenue.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Boy Scout Jamboree",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/68",
+        "o:id": 68
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/658",
+            "o:id": 658
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:54+00:00"
+    },
+    "o:id": 618,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3117",
+            "o:id": 3117
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:51+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Boy Scout Jamboree",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/9a8d52bf27571a821271ea9909fced35fc03dad9.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/9a8d52bf27571a821271ea9909fced35fc03dad9.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/9a8d52bf27571a821271ea9909fced35fc03dad9.jpg"
+    }
+}

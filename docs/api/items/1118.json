@@ -1,0 +1,97 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1118",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "2000-present",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "3/21/2010",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "In March 2010, as Congress was finalizing the Affordable Care Act, immigrants and activists took to the National Mall to call for immigration reform. Participants urged President Obama to keep his campaign promise of comprehensive immigration reform and chanted “Yes we can,” his campaign slogan, in both English and Spanish. President Obama addressed the crowd through a recorded message and promised to continue to work with Congress to pass an immigration bill.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Victoria Pickering. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "March for Immigration Reform ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:34+00:00"
+    },
+    "o:id": 1118,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3384",
+            "o:id": 3384
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "March for Immigration Reform ",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6efc7be09a999b2a5c8604457dc20943a6c9a7b0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6efc7be09a999b2a5c8604457dc20943a6c9a7b0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6efc7be09a999b2a5c8604457dc20943a6c9a7b0.jpg"
+    }
+}

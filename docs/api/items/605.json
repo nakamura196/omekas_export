@@ -1,0 +1,107 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/605",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1950-1979",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "04/12/1967",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "On April 12, 1967, a classic wood merry-go-round with 33 animals and 2 chariots moved to the National Mall near the Smithsonian Arts and Industries Building. Rides cost 25 cents apiece. In 1981 museum officials replaced the worn-out merry-go-round with the present, larger carousel, a 1947 vintage model with 60 horses. Music for the first merry-go-round came from a Wurlitzer band organ with wooden pipes and bellows. Today the carousel’s music wafts from a CD player.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Smithsonian Institution Archives. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Carousel Opens on the Mall",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/63",
+        "o:id": 63
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/647",
+            "o:id": 647
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:52+00:00"
+    },
+    "o:id": 605,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3104",
+            "o:id": 3104
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:51+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Carousel Opens on the Mall",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg"
+    }
+}

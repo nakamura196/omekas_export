@@ -1,0 +1,103 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/728",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1864",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Between 1835 and 1855, a lockkeeper lived in a small stone cottage on the juncture of the Washington City Canal and the C &amp; O Extension. The Canal closed due to competition from railroads, and decaying conditions, poor sanitation, and arguments among federal and local officials, contractors, and workers that led to its deterioration. When the lockkeeper's tenure ended in 1855, the house was abandoned. Squatters took lived in the house for a few years. In this picture, a resident sits by the front door with their laundry drying on a clothesline nearby. Later, the house became a holding pen for prisoners, then a storage facility for the National Park Service. In 2016, the National Park Service began a construction project that will convert the building into a visitor’s center.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Old Lock house still standing",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/705",
+            "o:id": 705
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:09+00:00"
+    },
+    "o:id": 728,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3174",
+            "o:id": 3174
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Old Lock house still standing",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7a97dd5fe58adc1b0381da30001499e77166ea51.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7a97dd5fe58adc1b0381da30001499e77166ea51.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7a97dd5fe58adc1b0381da30001499e77166ea51.jpg"
+    }
+}

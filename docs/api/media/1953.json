@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1953",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Miller in Emma",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:27:24+00:00"
+    },
+    "o:filename": "fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+    "o:id": 1953,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1950",
+        "o:id": 1950
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "32f9ff7a296cb318cc2d9f186ae58479459c929ea1c4f911cd6fb7190f51b3ee",
+    "o:size": null,
+    "o:source": "http://4.bp.blogspot.com/-ZyEjsx-IVZE/TytVu7pIwcI/AAAAAAAABuk/F17mWAxtQ5U/s1600/jonny+lee+miller+mr.+knightley+emma.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg"
+    },
+    "o:title": "Miller in Emma",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fd66ff63ff016e88a5f21d6aa177c5d026a894a1.jpg"
+    }
+}

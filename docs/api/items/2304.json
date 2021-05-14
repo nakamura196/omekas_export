@@ -1,0 +1,118 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2304",
+    "@type": "o:Item",
+    "dcterms:bibliographicCitation": [
+        {
+            "@value": "Mercy Otis Warren Papers, Massachusetts Historical Society.",
+            "is_public": true,
+            "property_id": 48,
+            "property_label": "Bibliographic Citation",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Martha Washington",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1778-03-07",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This 1778 letter was written at the winter camp in Valley Forge, Pennsylvania. Martha Washington corresponded regularly with Mercy Otis Warren, Boston historian and one of the leading lights of the Revolutionary era. Martha’s comments about the course of the war were an unusual foray into what was usually her husband’s exclusive domain.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Massachusetts Historical Society",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Martha Washington in the American Revolution",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Letter, Martha Washington to Mercy Otis Warren, March 7, 1778",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T17:09:31+00:00"
+    },
+    "o:id": 2304,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2305",
+            "o:id": 2305
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Letter, Martha Washington to Mercy Otis Warren, March 7, 1778",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/84e01c06621f0374068a9602ad7d972df3bc90ab.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/84e01c06621f0374068a9602ad7d972df3bc90ab.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/84e01c06621f0374068a9602ad7d972df3bc90ab.jpg"
+    }
+}

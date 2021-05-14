@@ -1,0 +1,100 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1122",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "Pre-1800s",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "02/04/1795",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This newspaper article was published in New York City in the mid 1790s, describing official plans for the developing federal city. Although an Act of Congress in 1790 had declared that Washington would be the national capital as of 1800, it was at the time mostly farmland and a few groups of buildings. The author describes the Mall as a magnificent setting, and the park to be developed there as elegant as any in Europe.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "newspaper article",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Herald, February 4, 1795.(New York, NY).",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Essay on the City of Washington",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:36+00:00"
+    },
+    "o:id": 1122,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3388",
+            "o:id": 3388
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Essay on the City of Washington",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/24bfb4cb1ff2214f8acc3212d3d514b80f788fa7.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/24bfb4cb1ff2214f8acc3212d3d514b80f788fa7.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/24bfb4cb1ff2214f8acc3212d3d514b80f788fa7.jpg"
+    }
+}

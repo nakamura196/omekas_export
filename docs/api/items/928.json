@@ -1,0 +1,106 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/928",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "7/14/1935",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This article from the Washington Post describes the first season of concerts at the Watergate steps near the Lincoln Memorial. Performances were generally classical music, both orchestral and featuring singers. Performers were on a specially constructed barge in the Potomac and the audience sat on the river bank. As the article points out, special busses ran to and from the Mall for the concerts.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "newspaper article",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "The Washington Post.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "National Symphony Gives First Dusk Concert Today",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/779",
+            "o:id": 779
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:42+00:00"
+    },
+    "o:id": 928,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3275",
+            "o:id": 3275
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:06:05+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "National Symphony Gives First Dusk Concert Today",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/63812595dce8ad6351eef1acc4fa3ff0953836ff.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/63812595dce8ad6351eef1acc4fa3ff0953836ff.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/63812595dce8ad6351eef1acc4fa3ff0953836ff.jpg"
+    }
+}

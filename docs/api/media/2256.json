@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2256",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:41:05+00:00"
+    },
+    "o:filename": "db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+    "o:id": 2256,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2255",
+        "o:id": 2255
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "95d24887787efe92589d82d4fd5ee59e1ca7105a3aac6366043b0bfa81df983a",
+    "o:size": null,
+    "o:source": "savage.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/db8f0f5ad7e372b418f41ac406b03c4cc7a99635.jpg"
+    }
+}

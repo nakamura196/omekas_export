@@ -1,0 +1,110 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/790",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1867",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "When President Lincoln created the Department of Agriculture in 1862, the agency consisted of only four scientists and agriculturists. By 1867, their numbers grew to 70 employees, indicating the rapid growth of the scope and influence of what is now the nation's sixth largest federal agency. Housed in the basement of the US Patent Office until 1868, Agricultural Department employees also tended experimental crops in gardens and fields on the National Mall, extending between today's Independence and Constitution Avenues. In this image, the first Commissioner of Agriculture, Isaac Newton, is seated in the center.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "800px x 300px",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "United States Department of Agriculture. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Scientists and Farmers at the Department of Agriculture ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/99",
+        "o:id": 99
+    },
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:17+00:00"
+    },
+    "o:id": 790,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3185",
+            "o:id": 3185
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Scientists and Farmers at the Department of Agriculture ",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1ce32e6cfe17bfaf433d4c0a67fe0087e3d96a7d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1ce32e6cfe17bfaf433d4c0a67fe0087e3d96a7d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1ce32e6cfe17bfaf433d4c0a67fe0087e3d96a7d.jpg"
+    }
+}

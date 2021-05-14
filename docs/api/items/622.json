@@ -1,0 +1,103 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/622",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1980-1999",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "07/1999-08/1999",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The summer outdoor film festival “Screen on the Green” on the National Mall began in 1999. Held at sundown throughout July and August, this free event is one of the most popular social and recreational events held on the Mall among locals and visitors alike. The films shown that first summer were Casablanca, The Wizard of Oz, Citizen Kane, King Kong, and Rebel without a Cause.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "ThisIsBossi Photography. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "First Annual Screen on the Green Festival",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/661",
+            "o:id": 661
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:55+00:00"
+    },
+    "o:id": 622,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3121",
+            "o:id": 3121
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:51+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "First Annual Screen on the Green Festival",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7fa6c70268cb8d1df2a7cf4015a96a8088ad53a7.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7fa6c70268cb8d1df2a7cf4015a96a8088ad53a7.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7fa6c70268cb8d1df2a7cf4015a96a8088ad53a7.jpg"
+    }
+}

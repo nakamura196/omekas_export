@@ -1,0 +1,109 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2277",
+    "@type": "o:Item",
+    "dcterms:date": [
+        {
+            "@value": "1793",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "George Washington ordered this expensive English harpsichord in 1793 for Nelly Custis, his step-granddaughter. It came to Mount Vernon in 1797 when the Washingtons returned home after the Presidency. Nelly’s harpsichord performances were an important part of sociability in the Washington household (image courtesy of Mount Vernon Ladies' Association).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "musical instrument",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Mount Vernon Ladies Association",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Music at Mount Vernon",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Nelly Custis's Harpsichord",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:53:44+00:00"
+    },
+    "o:id": 2277,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2278",
+            "o:id": 2278
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Nelly Custis's Harpsichord",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg"
+    }
+}

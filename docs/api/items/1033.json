@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1033",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Eric Carlson",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "World War I US Army veteran Eric Carlson joined the 1932 Bonus March to seek early payment of pension money promised veterans by the government. He was shot during a confrontation between marchers and DC police, who were trying to evict the marchers from their campsites. Another marcher, William Hushka was also shot and died instantly; Carlson died from his wounds  within a week of being shot, on the same day that Hushka was buried with military honors at Arlington National Cemetery. Carlson was also buried at Arlington.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Eric Carlson",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:01+00:00"
+    },
+    "o:id": 1033,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3330",
+            "o:id": 3330
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Eric Carlson",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f3e4080ee5f8e24609b0f2b478aa43cb49436920.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f3e4080ee5f8e24609b0f2b478aa43cb49436920.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f3e4080ee5f8e24609b0f2b478aa43cb49436920.jpg"
+    }
+}

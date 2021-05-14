@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1949",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Downey in 2014",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:23:16+00:00"
+    },
+    "o:filename": "0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+    "o:id": 1949,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1947",
+        "o:id": 1947
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "df971cd9d4b32c4f8f139badd07bc2f68fdc0b21d92808aa40e46d489d8197c8",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg"
+    },
+    "o:title": "Downey in 2014",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0dc1e451828bfc9a140887cc47c3cbac502de0a6.jpg"
+    }
+}

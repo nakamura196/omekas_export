@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/17",
+    "@type": "o:Property",
+    "o:comment": "An alternative name for the resource.",
+    "o:id": 17,
+    "o:label": "Alternative Title",
+    "o:local_name": "alternative",
+    "o:term": "dcterms:alternative",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/1",
+        "o:id": 1
+    }
+}

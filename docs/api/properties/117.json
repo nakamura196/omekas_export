@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/117",
+    "@type": "o:Property",
+    "o:comment": "The abbreviation of a title.",
+    "o:id": 117,
+    "o:label": "short title",
+    "o:local_name": "shortTitle",
+    "o:term": "bibo:shortTitle",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/3",
+        "o:id": 3
+    }
+}

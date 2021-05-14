@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/420",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Pelham Davis Glassford",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Glassford was Superintendent of Police of Washington, DC, in 1932 when World War I veterans, who would come to be known as the Bonus Marchers, descended on the city. They sought immediate payment of service certificates which were not due to be paid until 1945. A veteran himself, Glassford was sympathetic to the veterans' demands He believed they had a right to protest and helped them find food and shelter. In July 1932, President Hoover ordered Glassford to evict the marchers from federal property. Although the Superintendent gave orders to hold fire, a DC policeman shot and killed two veterans. President Hoover ordered the Army to complete the eviction of the Bonus Marchers.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Pelham Davis Glassford",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:20+00:00"
+    },
+    "o:id": 420,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3015",
+            "o:id": 3015
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Pelham Davis Glassford",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/12398c20bd35011f0d56976d7f235ce40c03027c.jpg"
+    }
+}

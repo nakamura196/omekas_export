@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/1",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T21:44:31+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 1,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            "248"
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-07T20:39:26+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 49,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 2,
+                "label": "Media Examples"
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "Browse",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/49",
+            "o:id": 49
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/2",
+            "o:id": 2
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?site_id=1"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [],
+    "o:slug": "media-examples",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:title": "Media Examples"
+}

@@ -1,0 +1,127 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2308",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Charles Willson Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1776",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "After painting miniatures of Martha Washington and her children four years earlier, Charles Willson Peale was commissioned by Martha to portray her husband in a miniature. George was at the front and thus could not sit for the portrait, so Peale modeled it after an earlier full-size portrait of Washington that he had executed. The miniature portrays Washington in his military uniform as commander of the Continental Army (image courtesy of Mount Vernon Ladies' Association).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "portrait miniature, watercolor on ivory",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "W-460",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Mount Vernon Ladies' Association",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Portraits",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Miniature portrait, George Washington, by Charles Willson Peale (watercolor on ivory, 1776)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T17:49:48+00:00"
+    },
+    "o:id": 2308,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2309",
+            "o:id": 2309
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Miniature portrait, George Washington, by Charles Willson Peale (watercolor on ivory, 1776)",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/852cb548fb85ed17b734bb07bf2f33cfcc35113b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/852cb548fb85ed17b734bb07bf2f33cfcc35113b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/852cb548fb85ed17b734bb07bf2f33cfcc35113b.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2354",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T19:50:46+00:00"
+    },
+    "o:filename": "d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+    "o:id": 2354,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2353",
+        "o:id": 2353
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "db2ab6cac81857a10d9ccf5b27fb50b63edc22a16af4d1dd6136d2a805bb50c0",
+    "o:size": null,
+    "o:source": "button bag.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d8deb02c688d97c7818dfcd2745850eadcb616f0.jpg"
+    }
+}

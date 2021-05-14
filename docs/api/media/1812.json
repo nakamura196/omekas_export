@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1812",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:18:58+00:00"
+    },
+    "o:filename": "52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+    "o:id": 1812,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1792",
+        "o:id": 1792
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1c3f8782eda158aa1a1b3f852a639cfddd0e6908c6d2ad0546eb66bf01415b49",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Cover_%28Hound_of_Baskervilles%2C_1902%29.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3024",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Rembrandt Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1829",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "The Athenaeum (website)",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Portrait Gallery",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:11+00:00"
+    },
+    "o:filename": "ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+    "o:id": 3024,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/479",
+        "o:id": 479
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6628f12282b92540e8edf14e662e6206b25d90dc93d0e1d528c9ebb0689be071",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/93a050156abb3393c5760260511a0397.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ca415c7ff7f452e488470f7171d1e479b82adc38.jpg"
+    }
+}

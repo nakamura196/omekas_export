@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1948",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Downey as Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:23:16+00:00"
+    },
+    "o:filename": "8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+    "o:id": 1948,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1947",
+        "o:id": 1947
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "35fa82cb923b4ee5e7e34ef008f2b7873c0aa43a090a9fd2ed7698da88fc1320",
+    "o:size": null,
+    "o:source": "Sherlock-Holmes_Robert-Downey-Jr.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg"
+    },
+    "o:title": "Downey as Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8ebc70f5867f830b9a139f057f7558a218d2da9f.jpg"
+    }
+}

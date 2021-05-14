@@ -1,0 +1,100 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2316",
+    "@type": "o:Item",
+    "dcterms:bibliographicCitation": [
+        {
+            "@value": "The Martha Washington Collection, Mount Vernon.",
+            "is_public": true,
+            "property_id": 48,
+            "property_label": "Bibliographic Citation",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1788-05-18",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This invitation dates to the brief period the Washingtons spent at Mount Vernon between the Revolution and the Presidency. The Porters were among the hundreds of houseguests that Mount Vernon hosted every year (many of them uninvited). Thomas Porter was a merchant in the port town of Alexandria, less than twenty miles from Mount Vernon. His wife Sarah was from the prominent Ramsay family (image courtesy of Mount Vernon Ladies' Association).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Mount Vernon Ladies' Association",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Invitation to Mr. and Mrs. Thomas Porter, May 18, 1788",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T17:58:10+00:00"
+    },
+    "o:id": 2316,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2317",
+            "o:id": 2317
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Invitation to Mr. and Mrs. Thomas Porter, May 18, 1788",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e995061bcafb532c6e1f8a991e868604a21b2663.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e995061bcafb532c6e1f8a991e868604a21b2663.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e995061bcafb532c6e1f8a991e868604a21b2663.jpg"
+    }
+}

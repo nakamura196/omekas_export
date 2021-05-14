@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2271",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "As First Lady, Martha Washington entered into an important and new public role. Just as with the President, there was debate over what her official title should be. Suggestions included “Lady” and “Marquise.” Early on, Martha herself decided that she should be addressed simply as “Mrs. Washington,” which was printed on her official calling cards. One of these is pictured here, along with an elaborate calling card case owned by Martha. (Courtesy of Arlington House, the Robert E. Lee Memorial.)",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "card and case",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Courtesy of Arlington House, the Robert E.\r\nLee Memorial.",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Martha Washington's calling card and case",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:50:22+00:00"
+    },
+    "o:id": 2271,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2272",
+            "o:id": 2272
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Martha Washington's calling card and case",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/51bcdc75bf36cfe459d03d3fa2fabfaaa4e7554e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/51bcdc75bf36cfe459d03d3fa2fabfaaa4e7554e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/51bcdc75bf36cfe459d03d3fa2fabfaaa4e7554e.jpg"
+    }
+}

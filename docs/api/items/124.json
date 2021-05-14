@@ -1,0 +1,117 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+    "@type": [
+        "o:Item",
+        "foaf:Person"
+    ],
+    "dcterms:description": [
+        {
+            "@value": "A British writer and physician, most noted for his character Sherlock Holmes and his detective fiction, which are generally considered milestones in the field of crime fiction.\r\n\r\nHe is also known for writing the fictional adventures of Professor Challenger, another of his characters, and for propagating the mystery of the Mary Celeste. He was a prolific writer whose other works include fantasy and science fiction stories, plays, romances, poetry, non-fiction and historical novels.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+            "is_public": true,
+            "o:label": "Wikipedia entry",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:birthday": [
+        {
+            "@value": "22 May 1859",
+            "is_public": true,
+            "property_id": 182,
+            "property_label": "birthday",
+            "type": "literal"
+        }
+    ],
+    "foaf:firstName": [
+        {
+            "@value": "Arthur",
+            "is_public": true,
+            "property_id": 139,
+            "property_label": "firstName",
+            "type": "literal"
+        }
+    ],
+    "foaf:gender": [
+        {
+            "@value": "Male",
+            "is_public": true,
+            "property_id": 125,
+            "property_label": "gender",
+            "type": "literal"
+        }
+    ],
+    "foaf:surname": [
+        {
+            "@value": "Doyle",
+            "is_public": true,
+            "property_id": 143,
+            "property_label": "Surname",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-19T17:27:38+00:00"
+    },
+    "o:id": 124,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/243",
+            "o:id": 243
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:30:36+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/94",
+        "o:id": 94
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Sir Arthur Ignatius Conan Doyle",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg"
+    }
+}

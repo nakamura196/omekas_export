@@ -1,0 +1,140 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2186",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Alexander Calder",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2184",
+            "display_title": "Alexander Calder",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Alexander Calder, by Carl Van Vechten, 1947",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/9aa337b27f0e6abfef7b200bc8fcd472c39b528d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2184,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1966",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:dateAccepted": [
+        {
+            "@value": "10/22/76",
+            "is_public": true,
+            "property_id": 43,
+            "property_label": "Date Accepted",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Poster",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "922",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "429.1976",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "Architecture & Design",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Peter Stone Collection of Posters by Artists",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "27 1/2 x 18\" (70.0 x 46.0 cm)",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Calder - R_trospective Alexandre Calder - Galerie Krugier & Cie, 5. grand-rue-Gen",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:19:00+00:00"
+    },
+    "o:id": 2186,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/5",
+        "o:id": 5
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Calder - R_trospective Alexandre Calder - Galerie Krugier & Cie, 5. grand-rue-Gen",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

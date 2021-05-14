@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/98",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 98,
+    "o:label": "identifier",
+    "o:local_name": "identifier",
+    "o:term": "bibo:identifier",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/3",
+        "o:id": 3
+    }
+}

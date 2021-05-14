@@ -1,0 +1,82 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2283",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "This image shows a variety of small sewing tools, including needles, a thimble, and half of a pair of scissors. The instrument in the upper left hand corner is a denier, used for measuring stitches. These tools would have been used both by Martha and by household slaves in their daily sewing chores.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Mount Vernon Ladies' Association",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Sewing Implements",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:56:32+00:00"
+    },
+    "o:id": 2283,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2284",
+            "o:id": 2284
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Sewing Implements",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/be5fd4dbf71ead4c8fb914a8d807afb865b5324b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/be5fd4dbf71ead4c8fb914a8d807afb865b5324b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/be5fd4dbf71ead4c8fb914a8d807afb865b5324b.jpg"
+    }
+}

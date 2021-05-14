@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1818",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:01+00:00"
+    },
+    "o:filename": "44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+    "o:id": 1818,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1798",
+        "o:id": 1798
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c7a55318686753da08c1489af2f0d74a7b01053082a3f804e519ccb1d86ea058",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/c/c8/Sherlock_Holmes_in_The_Five_Orange_Pips.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/44f5aeb0becb1eb3cd2ed39f12611f92c97c9dda.jpg"
+    }
+}

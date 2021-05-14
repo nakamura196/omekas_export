@@ -1,0 +1,88 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2142",
+    "@type": [
+        "o:Item",
+        "foaf:Person"
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Aan American photographer, known for his sensitive yet blunt treatment of controversial subject-matter in the large-scale, highly stylized black and white medium of photography. His work featured an array of subjects, including celebrity portraits, male and female nudes, self-portraits and still-life images of flowers. His most controversial work is that of the underground BDSM scene in the late 1960s and early 1970s of New York City. The homoeroticism of this work fuelled a national debate over the public funding of controversial artwork.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Robert Mapplethorpe",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:firstName": [
+        {
+            "@value": "Robert",
+            "is_public": true,
+            "property_id": 139,
+            "property_label": "firstName",
+            "type": "literal"
+        }
+    ],
+    "foaf:surname": [
+        {
+            "@value": "Mapplethorpe",
+            "is_public": true,
+            "property_id": 143,
+            "property_label": "Surname",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T18:40:37+00:00"
+    },
+    "o:id": 2142,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2143",
+            "o:id": 2143
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/94",
+        "o:id": 94
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Robert Mapplethorpe",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/beb1b60d1c9db31fdf7b6016608f904cd3bc4dc3.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/beb1b60d1c9db31fdf7b6016608f904cd3bc4dc3.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/beb1b60d1c9db31fdf7b6016608f904cd3bc4dc3.jpg"
+    }
+}

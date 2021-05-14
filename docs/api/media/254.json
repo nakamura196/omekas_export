@@ -1,0 +1,95 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/254",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "http://demo.iiifhosting.com/iiif/demo",
+        "height": 3600,
+        "profile": [
+            "http://iiif.io/api/image/2/level1.json",
+            {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [
+                    "native",
+                    "color",
+                    "gray"
+                ],
+                "supports": [
+                    "regionByPct",
+                    "regionSquare",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "sizeAboveFull",
+                    "rotationBy90s",
+                    "mirroring"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 225,
+                "width": 250
+            },
+            {
+                "height": 450,
+                "width": 500
+            }
+        ],
+        "tiles": [
+            {
+                "height": 256,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16
+                ],
+                "width": 256
+            }
+        ],
+        "width": 4000
+    },
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:44:59+00:00"
+    },
+    "o:filename": "578b70ad48cdcd58307816645c22f887a22c8379",
+    "o:id": 254,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/253",
+        "o:id": 253
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "http://demo.iiifhosting.com/iiif/demo/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/578b70ad48cdcd58307816645c22f887a22c8379.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/578b70ad48cdcd58307816645c22f887a22c8379.jpg"
+    }
+}

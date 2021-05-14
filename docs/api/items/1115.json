@@ -1,0 +1,97 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1115",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1980-1999",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "12/31/1999",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "America’s Millennium Gala was the culminating event of a larger three-day project celebrating the millennium. The event was produced by Quincy Jones and George Stevens Jr., hosted by Will Smith, and premiered a film by Steven Spielberg. Festivities began at 9pm on December 31st, 1999 and continued until 1am. Leading up to midnight, the western half of the Mall, between the Washington Monument and the Lincoln Memorial, featured a number of appearances and performances by popular musicians, as well as literary and scientific figures. The evening concluded with an extensive fireworks and lights display over the Washington Monument.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "William J. Clinton Presidential Library. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "America's Millennium Gala",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:33+00:00"
+    },
+    "o:id": 1115,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3381",
+            "o:id": 3381
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "America's Millennium Gala",
+    "thumbnail_display_urls": {
+        "large": "/omeka-s-sandbox/application/asset/thumbnails/video.png?v=3.0.2",
+        "medium": "/omeka-s-sandbox/application/asset/thumbnails/video.png?v=3.0.2",
+        "square": "/omeka-s-sandbox/application/asset/thumbnails/video.png?v=3.0.2"
+    }
+}

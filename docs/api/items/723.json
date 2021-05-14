@@ -1,0 +1,113 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/723",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1950-1979",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "1890-1919",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "07/16/1970",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Although most of the office buildings constructed on the Mall to house war department offices during World War I and II had been removed by the 1960s, a row of buildings from 1918 still stood in the space between Constitution Avenue and the Reflecting Pool. In 1969 President Nixon ordered these buildings demolished, to be replaced with parkland more in keeping with the rest of the Mall. On July 15, 1970, Naval officers and government officials held a demolition ceremony, watching as the wrecking ball took its first swing at the walls. By December, the buildings were gone.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Newspaper article",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "The Washington Post",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Last 'Tempos' Fall in Style: Wrecker's Ball Set to Music",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/700",
+            "o:id": 700
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:08+00:00"
+    },
+    "o:id": 723,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3169",
+            "o:id": 3169
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Last 'Tempos' Fall in Style: Wrecker's Ball Set to Music",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/11ad2400ecec670653aa7734d3aa20ef888eb167.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/11ad2400ecec670653aa7734d3aa20ef888eb167.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/11ad2400ecec670653aa7734d3aa20ef888eb167.jpg"
+    }
+}

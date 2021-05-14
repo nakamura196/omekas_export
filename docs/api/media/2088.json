@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2088",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T15:59:47+00:00"
+    },
+    "o:filename": "76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+    "o:id": 2088,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2079",
+        "o:id": 2079
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "8a70f6b817372f95050d22e419c98126b08b950f127a243a3251a3d71f41c1f6",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/9/96/SenseAndSensibilityTitlePage.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/76b8c8d18bb33cef888d0a4356ea263772a0a594.jpg"
+    }
+}

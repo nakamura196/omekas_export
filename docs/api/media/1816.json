@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1816",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:00+00:00"
+    },
+    "o:filename": "1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+    "o:id": 1816,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1796",
+        "o:id": 1796
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e184067b9e63230d98742362a15d3cebf4e9b04478dd44777ac827bfbea14857",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/7/7a/Iden-01.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1ad584ae0c5f68141a03d43bf851988dcdff364d.jpg"
+    }
+}

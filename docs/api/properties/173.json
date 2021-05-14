@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/173",
+    "@type": "o:Property",
+    "o:comment": "A document that this thing is the primary topic of.",
+    "o:id": 173,
+    "o:label": "is primary topic of",
+    "o:local_name": "isPrimaryTopicOf",
+    "o:term": "foaf:isPrimaryTopicOf",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

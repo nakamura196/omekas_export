@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/412",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "Pre-1800s",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Original Proprietors of the National Mall's Land",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "In 1791, 15 landowners negotiated with President George Washington to give the government land for the creation of a new federal capital, Washington. Land from Daniel Carroll of Duddington, David Burnes, and Notley Young became the National Mall. Property boundaries were vague, making it possible that Samuel Davidson, Benjamin Oden, James Williams, or Uriah Forrest also contributed small portions of their lands to that which became the National Mall.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Geography and Map Division. View original image.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Original Proprietors of the National Mall's Land",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:19+00:00"
+    },
+    "o:id": 412,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3007",
+            "o:id": 3007
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Original Proprietors of the National Mall's Land",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1c9a188d5a43c691390b90c0b2c0d39d9f04a47a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1c9a188d5a43c691390b90c0b2c0d39d9f04a47a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1c9a188d5a43c691390b90c0b2c0d39d9f04a47a.jpg"
+    }
+}

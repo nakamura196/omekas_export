@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3265",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:identifier": [
+        {
+            "@value": "PH 390",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "John Philips Photograph Collection, Kiplinger Library, Historical Society of Washington, D.C.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:57+00:00"
+    },
+    "o:filename": "4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+    "o:id": 3265,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/918",
+        "o:id": 918
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "8a23beb00b222039121f3a9b606e94dd8a001dffc72a4c4426a1d19de1afb923",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/d1447c45d4a6b2eb31bef8fba4176c23.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4d7d5b6b507ffc46f1e8929798cfc9c21fb9cee2.jpg"
+    }
+}

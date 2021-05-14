@@ -1,0 +1,108 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/241",
+    "@type": [
+        "o:Item",
+        "dctype:Text"
+    ],
+    "dcterms:creator": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+            "display_title": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Arthur Conany Doyle by Walter Benington, 1914",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 124,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1894",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The first London edition of the Memoirs in 1894 did not include \"The Adventure of the Cardboard Box\", although all twelve stories had appeared in the Strand Magazine. The first U.S. edition included the story, but it was very quickly replaced with a revised edition that omitted it.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "George Newnes",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Memoirs of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-20T17:53:54+00:00"
+    },
+    "o:id": 241,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "o:id": 255
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/256",
+            "o:id": 256
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:31:47+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/31",
+        "o:id": 31
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Memoirs of Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/bc38c233dcca1e422fca0063f60600d74293a3d6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/bc38c233dcca1e422fca0063f60600d74293a3d6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/bc38c233dcca1e422fca0063f60600d74293a3d6.jpg"
+    }
+}

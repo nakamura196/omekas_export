@@ -1,0 +1,154 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2187",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Alexander Calder",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2184",
+            "display_title": "Alexander Calder",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Alexander Calder, by Carl Van Vechten, 1947",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/9aa337b27f0e6abfef7b200bc8fcd472c39b528d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2184,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1969",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:dateAccepted": [
+        {
+            "@value": "10/22/76",
+            "is_public": true,
+            "property_id": 43,
+            "property_label": "Date Accepted",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@id": "http://www.moma.org/collection/works/6889",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Lithograph",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "922",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "430.1976",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@value": "Architecture & Design",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Peter Stone Collection of Posters by Artists",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "31 1/16 x 22 11/16\" (78.8 x 57.6 cm)",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Humanit_, F",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:19:00+00:00"
+    },
+    "o:id": 2187,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2206",
+            "o:id": 2206
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/5",
+        "o:id": 5
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Humanit_, F",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3ce44e1de6ba336422a6644c6c4207540c929211.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3ce44e1de6ba336422a6644c6c4207540c929211.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3ce44e1de6ba336422a6644c6c4207540c929211.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2098",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T16:43:50+00:00"
+    },
+    "o:filename": "71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+    "o:id": 2098,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2094",
+        "o:id": 2094
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "84d86408b6e466dbb917c2572bfa40996ccee47c04d314deede5025c41b63ee0",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarah_Goodridge_-_Gilbert_Stuart_-_Google_Art_Project.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg"
+    }
+}

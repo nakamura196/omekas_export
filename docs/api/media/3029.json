@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3029",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Divison",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:15+00:00"
+    },
+    "o:filename": "894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+    "o:id": 3029,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/484",
+        "o:id": 484
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fbed1fdf303a2080f9ff44823ad249578abc7e730e8332054beeada54009c4b1",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/b1d164c3faf2e1453d61dc4f7ddebc2e.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/894abbc09bc611906c7ec68b88b3d965a5f51fb1.jpg"
+    }
+}

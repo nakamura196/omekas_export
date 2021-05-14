@@ -1,0 +1,140 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2114",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Charles Willson Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2097",
+            "display_title": "Charles Willson Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charles_Wilson_Peale_-_Self-Portrait_with_Angelica_and_Portrait_of_Rachel_-_Google_Art_Project.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/c53b9dd594b58b8c2e2fcf31dad890da1b40e9cc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2097,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1806",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The exhumation of a mastodon skeleton that Peale oversaw in the early nineteenth century; the skeleton was subsequently displayed at his Philadelphia museum.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:medium": [
+        {
+            "@value": "oil on canvas",
+            "is_public": true,
+            "property_id": 26,
+            "property_label": "Medium",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Maryland Historical Society",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@id": "https://en.wikipedia.org/wiki/Peale%27s_Barber_Farm_Mastodon_Exhumation_Site",
+            "is_public": true,
+            "o:label": "Peale's Barber Farm Mastodon Exhumation Site",
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Exhuming the First American Mastodon",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/8",
+        "o:id": 8
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/27",
+            "o:id": 27
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:48+00:00"
+    },
+    "o:id": 2114,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2130",
+            "o:id": 2130
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Exhuming the First American Mastodon",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c44e72574870fe141cbca56633eb8a6e38c4c366.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c44e72574870fe141cbca56633eb8a6e38c4c366.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c44e72574870fe141cbca56633eb8a6e38c4c366.jpg"
+    }
+}

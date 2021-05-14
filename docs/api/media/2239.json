@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2239",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:25:21+00:00"
+    },
+    "o:filename": "4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+    "o:id": 2239,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2237",
+        "o:id": 2237
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "675b972e907afaa64dfca025a0feee4ab3111245b2a2e9ebb0fcc964a48ddc04",
+    "o:size": null,
+    "o:source": "tomb2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4216e71c80084fd9636c8970fc69977e23f8c5ad.jpg"
+    }
+}

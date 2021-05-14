@@ -1,0 +1,50 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+    "@type": "o:ItemSet",
+    "dcterms:description": [
+        {
+            "@value": "Artworks and artists",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Art",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T16:43:14+00:00"
+    },
+    "o:id": 2093,
+    "o:is_open": true,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?item_set_id=2093"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T16:43:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Art",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg"
+    }
+}

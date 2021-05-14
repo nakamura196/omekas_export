@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/7",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 7,
+    "o:label": "Artwork",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/7",
+                "o:id": 7
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/9",
+                "o:id": 9
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "Dimensions",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/40",
+                "o:id": 40
+            }
+        }
+    ],
+    "o:title_property": null
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2184",
+    "@type": [
+        "o:Item",
+        "foaf:Person"
+    ],
+    "dcterms:description": [
+        {
+            "@value": "An American sculptor known as the originator of the mobile, a type of moving sculpture made with delicately balanced or suspended shapes that move in response to touch or air currents. Calder’s monumental stationary sculptures are called stabiles. He also produced wire figures, which are like drawings made in space, and notably a miniature circus work that was performed by the artist.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Alexander Calder",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:birthday": [
+        {
+            "@value": "22 August 1898",
+            "is_public": true,
+            "property_id": 182,
+            "property_label": "birthday",
+            "type": "literal"
+        }
+    ],
+    "foaf:firstName": [
+        {
+            "@value": "Alexander",
+            "is_public": true,
+            "property_id": 139,
+            "property_label": "firstName",
+            "type": "literal"
+        }
+    ],
+    "foaf:surname": [
+        {
+            "@value": "Calder",
+            "is_public": true,
+            "property_id": 143,
+            "property_label": "Surname",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:16:29+00:00"
+    },
+    "o:id": 2184,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2185",
+            "o:id": 2185
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:56:50+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/94",
+        "o:id": 94
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Alexander Calder",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/9aa337b27f0e6abfef7b200bc8fcd472c39b528d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/9aa337b27f0e6abfef7b200bc8fcd472c39b528d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/9aa337b27f0e6abfef7b200bc8fcd472c39b528d.jpg"
+    }
+}

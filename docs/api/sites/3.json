@@ -1,0 +1,169 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:52:40+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 3,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            1705,
+            255
+        ]
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-06T20:23:51+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 40,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "Browse Collection",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "id": 41,
+                "label": ""
+            },
+            "links": [
+                {
+                    "data": {
+                        "id": 42,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                },
+                {
+                    "data": {
+                        "id": 43,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                }
+            ],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 55,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 45,
+                "label": ""
+            },
+            "links": [
+                {
+                    "data": {
+                        "id": 47,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                }
+            ],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 64,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:page": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/40",
+            "o:id": 40
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/44",
+            "o:id": 44
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/42",
+            "o:id": 42
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/43",
+            "o:id": 43
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/45",
+            "o:id": 45
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/62",
+            "o:id": 62
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/41",
+            "o:id": 41
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/47",
+            "o:id": 47
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/55",
+            "o:id": 55
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/64",
+            "o:id": 64
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?site_id=3"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:role": "viewer",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+                "o:id": 3
+            }
+        }
+    ],
+    "o:slug": "tinbox",
+    "o:summary": null,
+    "o:theme": "thedaily",
+    "o:title": "A Battered Tin Dispatch Box"
+}

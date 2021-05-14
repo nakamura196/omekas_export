@@ -1,0 +1,93 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2110",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Gilbert Stuart",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2094",
+            "display_title": "Gilbert Stuart",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sarah_Goodridge_-_Gilbert_Stuart_-_Google_Art_Project.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/71a391c9d9f1ea717ee651e2a4f48829d8ba86ac.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2094,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1804",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Triple Portrait of Elizbaeth Patterson Bonaparte",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:45+00:00"
+    },
+    "o:id": 2110,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2126",
+            "o:id": 2126
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Triple Portrait of Elizbaeth Patterson Bonaparte",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a70b195d1394e9129b642d13f748a7ea7aa0b1e8.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a70b195d1394e9129b642d13f748a7ea7aa0b1e8.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a70b195d1394e9129b642d13f748a7ea7aa0b1e8.jpg"
+    }
+}

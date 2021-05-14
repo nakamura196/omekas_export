@@ -1,0 +1,74 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "Person",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/94",
+        "o:id": 94
+    },
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "Full Name",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "Brief Biography",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "First Name",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/139",
+                "o:id": 139
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "Last Name",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/143",
+                "o:id": 143
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "Date of Birth",
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/182",
+                "o:id": 182
+            }
+        }
+    ],
+    "o:title_property": null
+}

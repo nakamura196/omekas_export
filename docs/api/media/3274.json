@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3274",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Adolph Sachse",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "G3851.A3 1884 .S3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The national capital, Washington, D.C. Sketched from nature by Adolph Sachse, 1883-1884.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:08:01+00:00"
+    },
+    "o:filename": "a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+    "o:id": 3274,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/927",
+        "o:id": 927
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fee3ef3aab1a57a82de97c2f57fc8a846332192342724bd38aad34bcf549b989",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/ff6a07396fa403e37379f51d3f9e4f4f.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg"
+    },
+    "o:title": "The national capital, Washington, D.C. Sketched from nature by Adolph Sachse, 1883-1884.",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a331c11281ac3b9693fa220b5046a42f32dd973f.jpg"
+    }
+}

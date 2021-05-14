@@ -1,0 +1,125 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/931",
+    "@type": [
+        "o:Item",
+        "dctype:Sound"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "John Philip Sousa",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1883",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "John Philip Sousa wrote this march in 1883 for the unveiling of the statue of Joseph Henry, first Secretary of the Smithsonian Institution, on April 19, 1883. At that event, the piece was played by the Marine Band, directed by Sousa. The sheet music was lost for over 100 years, until a copy was found in the Library of Congress. This recording features the Virginia Grand Military Band.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "30 seconds",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress. Listen to full recording. View sheet music.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Transit of Venus March",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/782",
+            "o:id": 782
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:43+00:00"
+    },
+    "o:id": 931,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3278",
+            "o:id": 3278
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3279",
+            "o:id": 3279
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:06:04+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/30",
+        "o:id": 30
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Transit of Venus March",
+    "thumbnail_display_urls": {
+        "large": "/omeka-s-sandbox/application/asset/thumbnails/audio.png?v=3.0.2",
+        "medium": "/omeka-s-sandbox/application/asset/thumbnails/audio.png?v=3.0.2",
+        "square": "/omeka-s-sandbox/application/asset/thumbnails/audio.png?v=3.0.2"
+    }
+}

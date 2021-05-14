@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/262",
+    "@type": "o-cnt:ContentAsText",
+    "data": {
+        "dcterms:title": [
+            {
+                "@value": "",
+                "property_id": "1",
+                "type": "literal"
+            }
+        ],
+        "html": "<p>HTML can be used to provide exposition or explanation that doesn&#39;t truly make sense as a metadata field.</p>\r\n\r\n<p>&nbsp;For example, &#39;description&#39; is sometimes used as a broad term encompassing narrative argument. Instead, the HTML media type allows you to put such content about the item separate from the stricter metadata.</p>\r\n",
+        "o:ingester": "html",
+        "o:is_public": "1"
+    },
+    "o-cnt:characterEncoding": "UTF-8",
+    "o-cnt:chars": "<p>HTML can be used to provide exposition or explanation that doesn&#39;t truly make sense as a metadata field.</p>\r\n\r\n<p>&nbsp;For example, &#39;description&#39; is sometimes used as a broad term encompassing narrative argument. Instead, the HTML media type allows you to put such content about the item separate from the stricter metadata.</p>\r\n",
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:00:04+00:00"
+    },
+    "o:filename": null,
+    "o:id": 262,
+    "o:ingester": "html",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/261",
+        "o:id": 261
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "html",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": null,
+    "o:thumbnail": null,
+    "o:thumbnail_urls": [],
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "/omeka-s-sandbox/application/asset/thumbnails/default.png?v=3.0.2",
+        "medium": "/omeka-s-sandbox/application/asset/thumbnails/default.png?v=3.0.2",
+        "square": "/omeka-s-sandbox/application/asset/thumbnails/default.png?v=3.0.2"
+    }
+}

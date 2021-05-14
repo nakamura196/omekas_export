@@ -1,0 +1,97 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/596",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "2000-present",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "09/08/2010",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "In 2010 the DC government announced that public wireless internet was available on the National Mall. Visitors and residents can get online by logging into “DC Wifi” using wifi-enabled devices. The Smithsonian Castle Information Center, National Gallery of Art, Museum of National History, Museum of American History, US Department of Agriculture, National Air and Space Museum, and the Museum of the American Indian serve as hotspots for the network. Outdoor wifi is accessible from the Washington Monument (14th Street) and the Capitol (3rd Street) and between Constitution and Independence Avenues. \n A map of hotspots in the District can be found here.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "ABC 7 News Blog, View Original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Wi-Fi Comes to the National Mall",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:50+00:00"
+    },
+    "o:id": 596,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3095",
+            "o:id": 3095
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:51+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Wi-Fi Comes to the National Mall",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f4299b9b71c1741903e6a5e5ab6592f50164a9e9.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f4299b9b71c1741903e6a5e5ab6592f50164a9e9.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f4299b9b71c1741903e6a5e5ab6592f50164a9e9.jpg"
+    }
+}

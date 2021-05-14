@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1943",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Peter Cushing in The Hound of the Baskervilles",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T15:31:58+00:00"
+    },
+    "o:filename": "0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+    "o:id": 1943,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1942",
+        "o:id": 1942
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "623fe58a40be14bceeee7f8eef0c81aa4dc3260418c7fd50ea56fdc5caefe2e0",
+    "o:size": null,
+    "o:source": "https://static1.squarespace.com/static/507dba43c4aabcfd2216a447/t/5314ef73e4b0dd604b3c7006/1393880951130/Peter+Cushing+as+Sherlock+Holmes.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg"
+    },
+    "o:title": "Peter Cushing in The Hound of the Baskervilles",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0c74126c38ab3e0abff4c3d529ef8da4cc864823.jpg"
+    }
+}

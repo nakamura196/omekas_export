@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1850",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:07+00:00"
+    },
+    "o:filename": "5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+    "o:id": 1850,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1832",
+        "o:id": 1832
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "ad5f362b519f706e7a3237bc490101081d9704b968d897c646a4d615c5e86916",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/2/23/Croo-05.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5fd0d01abf7189627bf3c32d94955caf3bf11640.jpg"
+    }
+}

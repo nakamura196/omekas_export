@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3252",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:description": [
+        {
+            "@value": "Downing's proposed Mall design with annotations added by RRCHNM staff",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Plan for the Mall with Annotations",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:51+00:00"
+    },
+    "o:filename": "d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+    "o:id": 3252,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/905",
+        "o:id": 905
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "7a268391098d58c79e991805b482fe1f4d69cd6000d1da9df532a5db60f92633",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/3ccf25692ff2044c3a702184586cd08c.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg"
+    },
+    "o:title": "Plan for the Mall with Annotations",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d8f608e65560f511713efc2f5f1deed6b1c3e8c3.jpg"
+    }
+}

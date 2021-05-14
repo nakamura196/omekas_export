@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3017",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "http://www.vietnamwomensmemorial.org/vwmf.php",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:09+00:00"
+    },
+    "o:filename": "59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+    "o:id": 3017,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/422",
+        "o:id": 422
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "94657a5a7c4c42e9c666407975a75b4445739034d4917560b41e53ac12c6ac6d",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/5978e00eb9ecee45af10a6f99aabe693.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/59c973f880fc63ad3877c7f2798d914636aafcce.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/59c973f880fc63ad3877c7f2798d914636aafcce.jpg"
+    }
+}

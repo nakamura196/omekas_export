@@ -1,0 +1,89 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3094",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Harris & Ewing, photographer",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Washington turns out for open air music. Washington, D.C., July 12. Sitting on stone steps near the Lincoln Memorial here, and facing a barge moored in the Potomac River, thousands of Washingtonians turned out to listen to the first of a series of summer concerts by the Washington Symphony Orchestra under the direction of Dr. Hans Kindler tonight. To give it his blessing and to enjoy the music, President Roosevelt arrived shortly before intermission accompanied by Brig. Genl. Edwin M. Watson, military aide, and Mrs. Watson",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "No known restrictions on publication",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Harris & Ewing Collection, Library of Congress. http://www.loc.gov/pictures/item/hec2009013682/",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Washington turns out for open air music.",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:41+00:00"
+    },
+    "o:filename": "3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+    "o:id": 3094,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/595",
+        "o:id": 595
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "903342003158573d029541e41a6f22488c13b60fd63367fc55c53e338c651c2b",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/9fbf04a3328deee88dac78cbe1a23080.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg"
+    },
+    "o:title": "Washington turns out for open air music.",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3927ef57a484cc8b83596a3c2220ecda22296a36.jpg"
+    }
+}

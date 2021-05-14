@@ -1,0 +1,109 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2314",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Martha Washington",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1789-12-26",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This long letter from Martha Washington to Mercy Otis Warren, the Massachusetts writer and historian, touches in a variety of ways on Martha’s public role as the first First Lady, something she did not often dwell upon in her correspondence. Despite her desire to remain in the comfort of retirement at Mount Vernon, she is determined to make the best of her new public role. The letter also contains a fascinating portrayal of her husband George’s careful reading of public opinion on his return to public life as the first President (image courtesy of Maine Historical Society).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Maine Historical Society",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Martha Washington as first lady",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Letter, Martha Washington to Mercy Otis Warren, December 26, 1789",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T17:57:11+00:00"
+    },
+    "o:id": 2314,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2315",
+            "o:id": 2315
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Letter, Martha Washington to Mercy Otis Warren, December 26, 1789",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/893dcf55556dca0952a3508f5bc32c9aa4fdc984.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/893dcf55556dca0952a3508f5bc32c9aa4fdc984.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/893dcf55556dca0952a3508f5bc32c9aa4fdc984.jpg"
+    }
+}

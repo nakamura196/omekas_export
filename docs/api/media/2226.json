@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2226",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "The Past",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T21:01:06+00:00"
+    },
+    "o:filename": "28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+    "o:id": 2226,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2225",
+        "o:id": 2225
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c2136619285c6842ea791ffaadb8053aebb300769717e3e49c6c217521ab593b",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg"
+    },
+    "o:title": "The Past",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/28c8b0b7affa31111a606f8bd6d6cd6352e4c094.jpg"
+    }
+}

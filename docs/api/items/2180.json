@@ -1,0 +1,98 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2180",
+    "@type": "o:Item",
+    "dcterms:alternative": [
+        {
+            "@value": "Barts",
+            "is_public": true,
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "A hospital located at Smithfield in the City of London and founded in 1123.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "A chemical laboratory at Barts was the location of the initial meeting of Sherlock Holmes and Dr. Watson in Arthur Conan Doyle's 1887 novel A Study in Scarlet. Barts was Watson's alma mater.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/St_Bartholomew%27s_Hospital#Sherlock_Holmes_and_Dr._Watson",
+            "is_public": true,
+            "o:label": "Wikipedia",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "St Bartholomew's Hospital",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/49",
+        "o:id": 49
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/117",
+            "o:id": 117
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T19:57:32+00:00"
+    },
+    "o:id": 2180,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2181",
+            "o:id": 2181
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T20:11:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "St Bartholomew's Hospital",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/bfe27d76c572a4790b9df87b145448ad854ed8dc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/bfe27d76c572a4790b9df87b145448ad854ed8dc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/bfe27d76c572a4790b9df87b145448ad854ed8dc.jpg"
+    }
+}

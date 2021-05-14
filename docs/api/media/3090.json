@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3090",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:41+00:00"
+    },
+    "o:filename": "3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+    "o:id": 3090,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/591",
+        "o:id": 591
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d8cd978ad2b8a4f294d2191f85e70185439222db220c06e29f23ed9876d1b01f",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/a78df0c5d759b9fdc52dc7e8a12391f0.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/3764d7fbe2f76a41ed516e6c62b74052aa393f8e.jpg"
+    }
+}

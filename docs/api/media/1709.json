@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1709",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "First US Edition",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T14:30:27+00:00"
+    },
+    "o:filename": "a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+    "o:id": 1709,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1708",
+        "o:id": 1708
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "f9b4090b9c28b30e77ac3e9bfd5163f063730b3b4eb6a9493e08719c7f6b1ada",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/en/8/89/TheReturnOfSherlockHolmes.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg"
+    },
+    "o:title": "First US Edition",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg"
+    }
+}

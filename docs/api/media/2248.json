@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2248",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:33:57+00:00"
+    },
+    "o:filename": "fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+    "o:id": 2248,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2246",
+        "o:id": 2246
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c5e408233b5ba58bc4720779261f1f87b8781d1a3f9d2b821199bce1efb42b3e",
+    "o:size": null,
+    "o:source": "bull2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fb57fe7bb0c385112f425086eab81fee7a698b88.jpg"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3113",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "Also available at https://en.wikipedia.org/wiki/File:McMillan_Plan.jpg",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:50+00:00"
+    },
+    "o:filename": "e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+    "o:id": 3113,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/614",
+        "o:id": 614
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c9a4bd71e9594bfb8cab4baa585021aa740941a8f0e36c02e1aa885cd1651120",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/10939b5dfc8b3601c99a5141086e569b.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e0d7885d16620368c8692f99aff3d9bde1a1e46d.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1824",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:03+00:00"
+    },
+    "o:filename": "40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+    "o:id": 1824,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1804",
+        "o:id": 1804
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fce322c7004c42b6972953be8cd912ef015022535f4d566e544ed6306c5b1b8a",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/0/08/Bery-01.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/40fb56dda7c925c42a69984a6f0f30353fc4e66a.jpg"
+    }
+}

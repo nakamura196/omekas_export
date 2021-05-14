@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/399",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1890-1919",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Alice Paul",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Activist and leader of the National Woman's Party, Alice Paul organized the Woman Suffrage Parade on Pennsylvania Avenue the day before Woodrow Wilson's inauguration in March, 1913. Four years later, Paul led a demonstration in front of the White House, again demanding women’s right to vote. Protesters were arrested for obstructing traffic and jailed. While in prison, Paul began a hunger strike drawing more attention to her cause. Responding to political pressure, President Woodrow Wilson called on Congress and the states to amend the Constitution and allow women the right to vote. The 19th amendment was ratified in 1920.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Alice Paul",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:15+00:00"
+    },
+    "o:id": 399,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2994",
+            "o:id": 2994
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Alice Paul",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f89b56eb28dd35a320c3509d992d4e61d595bc82.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f89b56eb28dd35a320c3509d992d4e61d595bc82.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f89b56eb28dd35a320c3509d992d4e61d595bc82.jpg"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2261",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Martha Washington\r\nEleanor Parke Custis Lewis",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1800-09-22",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Martha Washington’s will is in the hand of her granddaughter Eleanor Parke Custis Lewis and was signed in September 1800.  It was probated in June 1802.  The will is mostly concerned with bequests of specific household goods to family members.  It specifies that a public auction be held to sell items not named in the will.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "paper",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:provenance": [
+        {
+            "@value": "The will was signed and dated on 9/22/1800. A codicil was added on 3/4/1802. It was probated on 6/21/1802. During the Civil War, the will was taken from the Fairfax County Courthouse by Brig. Gen. David Thomson, who later gave it to his daughter Mary Thomson. It was then purchased by J. Pierpont Morgan. It was returned to the Fairfax County Circuit Court in 1915.",
+            "is_public": true,
+            "property_id": 51,
+            "property_label": "Provenance",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "Fairfax County Courthouse",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@value": "Will of George Washington",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Fairfax County Courthouse",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "The Clerk of Circuit Court of Fairfax County",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "death of Martha Washington",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "1800-09-22 1802-06-21",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Will of Martha Washington",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:47:19+00:00"
+    },
+    "o:id": 2261,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2262",
+            "o:id": 2262
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2263",
+            "o:id": 2263
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2264",
+            "o:id": 2264
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2265",
+            "o:id": 2265
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2266",
+            "o:id": 2266
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2267",
+            "o:id": 2267
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Will of Martha Washington",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4f521e6d344bb68a8e33fad5a3508b6145822c74.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4f521e6d344bb68a8e33fad5a3508b6145822c74.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4f521e6d344bb68a8e33fad5a3508b6145822c74.jpg"
+    }
+}

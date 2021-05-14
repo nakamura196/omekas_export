@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2091",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T15:59:51+00:00"
+    },
+    "o:filename": "a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+    "o:id": 2091,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2082",
+        "o:id": 2082
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d5a598570e1b141e66322e09b7ea8464e2db7f090316cc84b0fbc3fb6ad9b615",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/a/af/MansfieldParkTitlePage.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a1a893e06a6cccc9aa72d95b7adcadb13959a978.jpg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/589",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "2000-present",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This Smithsonian Institution brochure documents the architectural styles, architects, and unique histories of the museums on the National Mall from 1855 to 2004. It also includes information on Smithsonian buildings which lay outside of the scope of the National Mall.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Smithsonian Institution Architectural History &amp; Historic Preservation Division. View Original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A Guide to Smithsonian Architecture",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/886",
+            "o:id": 886
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:49+00:00"
+    },
+    "o:id": 589,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3088",
+            "o:id": 3088
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T21:06:59+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "A Guide to Smithsonian Architecture",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1a8bda774ccb2c4c863ae6b51f391a5b5b63d889.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1a8bda774ccb2c4c863ae6b51f391a5b5b63d889.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1a8bda774ccb2c4c863ae6b51f391a5b5b63d889.jpg"
+    }
+}

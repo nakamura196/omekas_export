@@ -1,0 +1,138 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2116",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Benjamin West",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2095",
+            "display_title": "Benjamin West",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "https://upload.wikimedia.org/wikipedia/commons/d/d8/BenjaminWestNGA.gif",
+            "thumbnail_type": "image/gif",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/09133caecbd37e7854c171f596cba07272d358ab.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2095,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1770",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The Death of General Wolfe is a well-known 1770 painting by Anglo-American artist Benjamin West depicting the death of British General James Wolfe at the 1759 Battle of Quebec during the French and Indian War (which was the North American theater of the Seven Years' War). It is an oil on canvas of the Enlightenment period. West made an additional and nearly identical painting of the same scene for King George III in 1771",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "http://www.gallery.ca/en/see/collections/artwork.php?mkey=5363",
+            "is_public": true,
+            "o:label": "The Death of General Wolfe at the National Gallery of Canada",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:medium": [
+        {
+            "@value": "oil on canvas",
+            "is_public": true,
+            "property_id": 26,
+            "property_label": "Medium",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Gallery of Canada",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Death of General Wolfe",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/7",
+        "o:id": 7
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/25",
+            "o:id": 25
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:51+00:00"
+    },
+    "o:id": 2116,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2132",
+            "o:id": 2132
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Death of General Wolfe",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/bd1d4968670024944d34631a67bf1aa28cdf9d1a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/bd1d4968670024944d34631a67bf1aa28cdf9d1a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/bd1d4968670024944d34631a67bf1aa28cdf9d1a.jpg"
+    }
+}

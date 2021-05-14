@@ -1,0 +1,89 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2998",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "John Halpin",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1852",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "NPG.2004.23",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Portrait Gallery, Smithsonian Institution",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Andrew Jackson Downing",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:01+00:00"
+    },
+    "o:filename": "4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+    "o:id": 2998,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/403",
+        "o:id": 403
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6ff6632ee06216c9643f98382d5cd16ccb489b4c25f173d241764fd7252cb5cd",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/4762b1c05193e7e321f8cacba93fd049.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg"
+    },
+    "o:title": "Andrew Jackson Downing",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4e717d9f2608e6ce2af6c9eb1725656c33d202f4.jpg"
+    }
+}

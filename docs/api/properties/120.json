@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/120",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 120,
+    "o:label": "upc",
+    "o:local_name": "upc",
+    "o:term": "bibo:upc",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/3",
+        "o:id": 3
+    }
+}

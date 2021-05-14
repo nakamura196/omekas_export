@@ -1,0 +1,132 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/586",
+    "@type": [
+        "o:Item",
+        "dctype:StillImage"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1879",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This five-part panorama shows the National Mall and surrounding buildings, from the Smithsonian \"Castle\" Institution Building. The left section shows Washington Monument under construction in background, with Agriculture Department at left. The left center and center sections show the B Street (now Constitution Avenue) side of the Mall with building trade structures and Center Market. The right center section shows Baltimore and Potomac railroad station and tracks. The right section includes the US Capitol in background and Independence Avenue area of Capitol Hill.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "Photograph",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Panoramic Views of Washington, DC",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/54",
+        "o:id": 54
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/631",
+            "o:id": 631
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:49+00:00"
+    },
+    "o:id": 586,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3081",
+            "o:id": 3081
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3082",
+            "o:id": 3082
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3083",
+            "o:id": 3083
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3084",
+            "o:id": 3084
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3085",
+            "o:id": 3085
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:51+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/33",
+        "o:id": 33
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Panoramic Views of Washington, DC",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6ae366a8f2f342116bc91866e52ccaf5873727ff.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6ae366a8f2f342116bc91866e52ccaf5873727ff.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6ae366a8f2f342116bc91866e52ccaf5873727ff.jpg"
+    }
+}

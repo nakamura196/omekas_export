@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2228",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "The Present",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T21:02:05+00:00"
+    },
+    "o:filename": "b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+    "o:id": 2228,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2227",
+        "o:id": 2227
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "936e64b00a60733d8b430c34152547c103fd29ca1f610de5ef806f463b94e215",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cole_Thomas_The_Present_1838.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg"
+    },
+    "o:title": "The Present",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b046b1d2cb4eb2cf65a8ffcbead595174fafaabf.jpg"
+    }
+}

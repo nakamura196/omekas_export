@@ -1,0 +1,65 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/250",
+    "@type": "o:Media",
+    "data": {
+        "author_name": "We Are Social Singapore",
+        "author_url": "https://www.slideshare.net/wearesocialsg",
+        "conversion_version": 2,
+        "height": 355,
+        "html": "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/g3v56MYXX80jQn\" width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"https://www.slideshare.net/wearesocialsg/digital-in-2017-global-overview\" title=\"Digital in 2017 Global Overview\" target=\"_blank\">Digital in 2017 Global Overview</a> </strong> from <strong><a target=\"_blank\" href=\"https://www.slideshare.net/wearesocialsg\">We Are Social Singapore</a></strong> </div>\n\n",
+        "provider_name": "SlideShare",
+        "provider_url": "https://www.slideshare.net/",
+        "slide_image_baseurl": "//image.slidesharecdn.com/08digitalin2017regionaloverviews-wearesocialandhootsuite-v001-170124010014/95/slide-",
+        "slide_image_baseurl_suffix": "-1024.jpg",
+        "slideshow_id": 71310245,
+        "thumbnail": "//cdn.slidesharecdn.com/ss_thumbnails/08digitalin2017regionaloverviews-wearesocialandhootsuite-v001-170124010014-thumbnail.jpg?cb=1485484973",
+        "thumbnail_height": 128,
+        "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/08digitalin2017regionaloverviews-wearesocialandhootsuite-v001-170124010014-thumbnail.jpg?cb=1485484973",
+        "thumbnail_width": 170,
+        "title": "Digital in 2017 Global Overview",
+        "total_slides": 107,
+        "type": "rich",
+        "version": "1.0",
+        "version_no": "1485484973",
+        "width": 425
+    },
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:41:36+00:00"
+    },
+    "o:filename": "53567a474975f89d6c454b08233989212f50af08",
+    "o:id": 250,
+    "o:ingester": "oembed",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/249",
+        "o:id": 249
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "oembed",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://www.slideshare.net/wearesocialsg/digital-in-2017-global-overview",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/53567a474975f89d6c454b08233989212f50af08.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/53567a474975f89d6c454b08233989212f50af08.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/53567a474975f89d6c454b08233989212f50af08.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/53567a474975f89d6c454b08233989212f50af08.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/53567a474975f89d6c454b08233989212f50af08.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/53567a474975f89d6c454b08233989212f50af08.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3023",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Johnston, Frances Benjamin, 1864-1952, ",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "between ca. 1890 and ca. 1910",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. http://www.loc.gov/pictures/item/2001704023/",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:11+00:00"
+    },
+    "o:filename": "e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+    "o:id": 3023,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/478",
+        "o:id": 478
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "5c1f3988df4cef7f5967359bebdf867e03460ef659c5bbd3c840afe3a1b77135",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/ae750eb4922a0e38ca1f1b6a6dbe735b.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e4210aa26305dd4a57be1b3de250827a19f6e276.jpg"
+    }
+}

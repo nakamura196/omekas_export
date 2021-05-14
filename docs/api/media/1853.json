@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1853",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:09+00:00"
+    },
+    "o:filename": "eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+    "o:id": 1853,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1835",
+        "o:id": 1835
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d99cb27c22d16088d1a135436f1fc78b1725be29d1d9368d564f342ce4aa1d44",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/8/82/Sherlock_Holmes_and_Professor_Moriarty_at_the_Reichenbach_Falls.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/eb4e0b1baf4129bbe3d6c847c192214769274e9d.jpg"
+    }
+}

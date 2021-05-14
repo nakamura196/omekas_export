@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2999",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "http://www.aoc.gov/capitol-grounds/frederick-law-olmsted",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:01+00:00"
+    },
+    "o:filename": "fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+    "o:id": 2999,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/404",
+        "o:id": 404
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c27ce1395731a992ca970b3a005992e6c8819a8bb52119313cb62c4121ac3e48",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/9f1c075696b118289dcc88e065f60ffd.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg"
+    }
+}

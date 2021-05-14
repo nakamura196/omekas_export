@@ -1,0 +1,98 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/415",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "1950-1979",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "A. Philip Randolph",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Civil rights leader and labor organizer A. Philip Randolph built coalitions of African Americans who pressured presidents, Congress, and local governments to end racial discrimination. In 1941, he organized a proposed march on Washington by African Americans to demand an end to racial discrimination in defense industries and the US military, and to ban lynching. Randolph cancelled the march after President Franklin Roosevelt signed Executive Order 8802 establishing the first Fair Employment Practices Committee, effectively banning racial discrimination in defense-related industries in 1941. Randolph continued fighting for equality and marched with other civil rights leaders in Washington in 1963.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Archives at College Park - Still Pictures. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "A. Philip Randolph",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:20+00:00"
+    },
+    "o:id": 415,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3010",
+            "o:id": 3010
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "A. Philip Randolph",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0c877e54f087b0332d144fba38f4c90666789d0f.jpg"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1704",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Portrait of George Newnes, no later than 1897",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T14:09:31+00:00"
+    },
+    "o:filename": "7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+    "o:id": 1704,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1703",
+        "o:id": 1703
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "922951f0f60d22324bdd69b32654d6cfa975d170f0bf09aa128e555c5da1d981",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Portrait_of_George_Newnes.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c45003b3702949b5d1660882df9a991991c1cfe.jpg"
+    },
+    "o:title": "Portrait of George Newnes, no later than 1897",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7c45003b3702949b5d1660882df9a991991c1cfe.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c45003b3702949b5d1660882df9a991991c1cfe.jpg"
+    }
+}

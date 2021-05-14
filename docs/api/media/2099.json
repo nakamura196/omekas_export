@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2099",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T16:43:53+00:00"
+    },
+    "o:filename": "09133caecbd37e7854c171f596cba07272d358ab.gif",
+    "o:id": 2099,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2095",
+        "o:id": 2095
+    },
+    "o:lang": null,
+    "o:media_type": "image/gif",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/09133caecbd37e7854c171f596cba07272d358ab.gif",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d347cd4f32242c57e84cc86445b83d567ff5c9666216f927f451fbb56bab2a1a",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/BenjaminWestNGA.gif",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/09133caecbd37e7854c171f596cba07272d358ab.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/09133caecbd37e7854c171f596cba07272d358ab.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/09133caecbd37e7854c171f596cba07272d358ab.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/09133caecbd37e7854c171f596cba07272d358ab.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/09133caecbd37e7854c171f596cba07272d358ab.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/09133caecbd37e7854c171f596cba07272d358ab.jpg"
+    }
+}

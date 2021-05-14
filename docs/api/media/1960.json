@@ -1,0 +1,55 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1960",
+    "@type": "o:Media",
+    "data": {
+        "id": "Egcx63-FfTE"
+    },
+    "dcterms:title": [
+        {
+            "@value": "Trailer for Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:54:36+00:00"
+    },
+    "o:filename": "588e696b9dca455f2df6bbd0fbfaf86ac301ef75",
+    "o:id": 1960,
+    "o:ingester": "youtube",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1957",
+        "o:id": 1957
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "youtube",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://www.youtube.com/watch?v=Egcx63-FfTE",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg"
+    },
+    "o:title": "Trailer for Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/588e696b9dca455f2df6bbd0fbfaf86ac301ef75.jpg"
+    }
+}

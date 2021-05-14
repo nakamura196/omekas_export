@@ -1,0 +1,98 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/488",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1950-1979",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "1920-1949",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Bayard Rustin",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Rustin was a crucial force driving civil rights activism, especially in organizing protests on the National Mall. The first March on Washington movement emerged in 1941 when African American activists, including Rustin, successfully pressured President Franklin D. Roosevelt to end racial discrimination in federal hiring. By threatening to march in Washington during World War II, Rustin and his colleagues changed federal policy without needing to march. In 1963, Rustin was a pivotal organizer for the March on Washington for Jobs and Freedom. Rustin remained behind the scenes during the event on the Mall, but he was recognized as co-organizer with A. Philip Randolph on the cover of LIFE Magazine.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Bayard Rustin ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:33+00:00"
+    },
+    "o:id": 488,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3033",
+            "o:id": 3033
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Bayard Rustin ",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/1220d7c587e6388f9219e7509ce685dfca1f9ef7.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/1220d7c587e6388f9219e7509ce685dfca1f9ef7.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/1220d7c587e6388f9219e7509ce685dfca1f9ef7.jpg"
+    }
+}

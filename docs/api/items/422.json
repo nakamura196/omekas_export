@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/422",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1980-1999",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Diane Carlson Evans",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Diane Carlson Evans is a Vietnam veteran who was the driving force behind the creation of the Vietnam Women's Memorial. Motivated to include the voices of approximately 265,000 military women of the Vietnam era whose experiences were overlooked or forgotten, Evans founded the Vietnam Women's Memorial Project in 1984 to push to include women in memorials of the war. Evans advocated before Congress and to the public for seven years before authorization was granted to create the Vietnam Women's Memorial. The sculpture was dedicated on November 11, 1993 as part of the Vietnam Veterans Memorial.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Vietnam Women's Memorial Foundation. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Diane Carlson Evans",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:21+00:00"
+    },
+    "o:id": 422,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3017",
+            "o:id": 3017
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Diane Carlson Evans",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/59c973f880fc63ad3877c7f2798d914636aafcce.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/59c973f880fc63ad3877c7f2798d914636aafcce.jpg"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/800",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "Pre-1800s",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2/28/1792",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "In February 1792 President George Washington dismissed city planner Major Pierre Charles L'Enfant, who had been hired to design the new capital but continually argued with the Federal City commissioners. One of L'Enfant's most offensive acts was demolishing the house of local landowner Daniel Carroll because it stood in the way of a new road. Although Carroll was eventually reimbursed for the damages, the event led Washington to fire L'Enfant. However, L'Enfant's design for the city was still adopted and is visible in the grid and spoke pattern of Washington, DC, today.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "George Washington Papers, Library of Congress. View original.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "George Washington fires Major Pierre Charles L'Enfant",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:19+00:00"
+    },
+    "o:id": 800,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3195",
+            "o:id": 3195
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:07:18+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "George Washington fires Major Pierre Charles L'Enfant",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b4eef605bb4379e2e623fd9e1dd8a88b124a174a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b4eef605bb4379e2e623fd9e1dd8a88b124a174a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b4eef605bb4379e2e623fd9e1dd8a88b124a174a.jpg"
+    }
+}

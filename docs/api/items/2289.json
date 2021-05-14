@@ -1,0 +1,136 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2289",
+    "@type": "o:Item",
+    "dcterms:bibliographicCitation": [
+        {
+            "@value": "Adams, T.H., Rev. \"Washington's Runaway Slave.\" The Granite Freeman. May 22, 1845.",
+            "is_public": true,
+            "property_id": 48,
+            "property_label": "Bibliographic Citation",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Rev. T.H. Adams\r\nThe Granite Freeman",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1845-05-22",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "This remarkable account by the Rev. T.H. Adams of an interview with Ona Judge Staines, recorded decades after the events described, is a rare testimonial of an escaped slave who was not returned to slavery but became free. The report of the interview with the aging Ona Judge Staines was published in an abolitionist newspaper in the mid-nineteenth century, presumably in part to show the injustice of slavery as it was perpetrated even by the revered “Father of his Country.” Judge, who had in the interim become a devout Christian, displays no nostalgia about her servitude as Martha Washington’s personal attendant and body slave, and portrays George Washington as irreligious (image courtesy of American Antiquarian Society).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "The Granite Freeman",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "American Antiquarian Society",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Ona Judge Staines",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Ona Judge",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Article reporting interview with Ona Judge Staines, Granite Freeman, May 22, 1845",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T16:06:15+00:00"
+    },
+    "o:id": 2289,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2290",
+            "o:id": 2290
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Article reporting interview with Ona Judge Staines, Granite Freeman, May 22, 1845",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f374426677a4fcf41db7d25ab8ae165a5fff6a10.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f374426677a4fcf41db7d25ab8ae165a5fff6a10.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f374426677a4fcf41db7d25ab8ae165a5fff6a10.jpg"
+    }
+}

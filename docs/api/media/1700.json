@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1700",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Dust jacket of the first edition",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T13:54:06+00:00"
+    },
+    "o:filename": "4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+    "o:id": 1700,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/257",
+        "o:id": 257
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d8606effcd587afb16b708d198a7e7f10df8f92eff0d1c10987e739dedfdad49",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/en/c/c2/Case-book_of_sherlock_holmes.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg"
+    },
+    "o:title": "Dust jacket of the first edition",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg"
+    }
+}

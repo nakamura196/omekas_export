@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/404",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Frederick Law Olmsted",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "In 1783, the Senate Committee on Public Buildings and Grounds commissioned Olmsted, who had co-designed Central Park in New York City, to design the grounds of the Capitol. Olmsted created a park-like plan that complimented the Capitol building. His plan added marble terraces on the northern, western, and southern sides of the building, and a summerhouse for visitors on the side near the Mall. Olmsted's career designing park systems and as an urban planner influenced design plans for the National Mall into the 1900s.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Architect of the Capitol. View original image.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Frederick Law Olmsted",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:16+00:00"
+    },
+    "o:id": 404,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2999",
+            "o:id": 2999
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Frederick Law Olmsted",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fcc01154f1a63ce93658cc3f2c9463b7e8586889.jpg"
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2328",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "George Washington",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1799-00-00",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "University of Virginia",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Slavery",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "List of Slaves at Mount Vernon, 1799",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T18:16:35+00:00"
+    },
+    "o:id": 2328,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2329",
+            "o:id": 2329
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2330",
+            "o:id": 2330
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2331",
+            "o:id": 2331
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2332",
+            "o:id": 2332
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2333",
+            "o:id": 2333
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2334",
+            "o:id": 2334
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2335",
+            "o:id": 2335
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2336",
+            "o:id": 2336
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:01:52+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "List of Slaves at Mount Vernon, 1799",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7cbb3c74fc05c0ab31ff7f6be071dec36909db4b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7cbb3c74fc05c0ab31ff7f6be071dec36909db4b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7cbb3c74fc05c0ab31ff7f6be071dec36909db4b.jpg"
+    }
+}

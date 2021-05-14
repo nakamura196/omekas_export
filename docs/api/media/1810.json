@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1810",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:18:54+00:00"
+    },
+    "o:filename": "f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+    "o:id": 1810,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1790",
+        "o:id": 1790
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fb38f883959b4dec12afbc24f3cb5657166c30e45f9d70ee1966ce1a6ea7596d",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/b/ba/ArthurConanDoyle_AStudyInScarlet.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f44880126ff64d0c8232b58bae62ec0e9241afde.jpg"
+    }
+}

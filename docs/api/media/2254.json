@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2254",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:38:52+00:00"
+    },
+    "o:filename": "8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+    "o:id": 2254,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2253",
+        "o:id": 2253
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "90fd240f137b2d6956bb945fe56af40ede2326975a01a4f232fffed172cee3ad",
+    "o:size": null,
+    "o:source": "preshouse.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8d848effa20db3373547ff38fcbe1f666fa1c2e0.jpg"
+    }
+}

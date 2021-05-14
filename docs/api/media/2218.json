@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2218",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:19:01+00:00"
+    },
+    "o:filename": "cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+    "o:id": 2218,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2212",
+        "o:id": 2212
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/5",
+        "o:id": 5
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "5e658446c8214db2905a9771c61576629e1dfea916a2ae63288ab7ec9324cef0",
+    "o:size": null,
+    "o:source": "http://www.moma.org/media/W1siZiIsIjE3OTM5NSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDMwMHgzMDBcdTAwM2UiXV0.jpg?sha=1978fa73271923fb",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cc71380cee79f28c0d4bc14a9a31fe25a941699c.jpg"
+    }
+}

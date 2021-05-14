@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2178",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "The residence of Sherlock Holmes and John Watson for at least some of the canon stories. At the time the Holmes stories were published, addresses in Baker Street did not go as high as 221. Baker Street was later extended, and in 1932 the Abbey National Building Society moved into premises at 219–229 Baker Street. For many years, Abbey National employed a full-time secretary to answer mail addressed to Sherlock Holmes.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "221B Baker Street",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/48",
+        "o:id": 48
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/116",
+            "o:id": 116
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T19:53:39+00:00"
+    },
+    "o:id": 2178,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2179",
+            "o:id": 2179
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "221B Baker Street",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/58f19d30a5f3f4d46531c8c63799b5895d525a1c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/58f19d30a5f3f4d46531c8c63799b5895d525a1c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/58f19d30a5f3f4d46531c8c63799b5895d525a1c.jpg"
+    }
+}

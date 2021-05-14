@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/183",
+    "@type": "o:Property",
+    "o:comment": "The age in years of some agent.",
+    "o:id": 183,
+    "o:label": "age",
+    "o:local_name": "age",
+    "o:term": "foaf:age",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

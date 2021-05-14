@@ -1,0 +1,165 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2136",
+    "@type": [
+        "o:Item",
+        "dctype:MovingImage"
+    ],
+    "bibo:director": [
+        {
+            "@value": "\tSidney Lanfield",
+            "is_public": true,
+            "property_id": 64,
+            "property_label": "director",
+            "type": "literal"
+        }
+    ],
+    "bibo:distributor": [
+        {
+            "@value": "20th Century Fox",
+            "is_public": true,
+            "property_id": 65,
+            "property_label": "distributor",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Ernest Pascal",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "A 1939 mystery film based on the novel The Hound of the Baskervilles by Sir Arthur Conan Doyle. It was directed by Sidney Lanfield and produced by 20th Century Fox.\r\n\r\nIt is among the best-known cinematic adaptations of the book, and is often regarded as one of the best.[1] The film stars Basil Rathbone as Sherlock Holmes, Nigel Bruce as Dr. Watson and Richard Greene as Henry Baskerville. Because the studio was unsure that the film would be a success, and that Rathbone and Bruce would make many more Sherlock Holmes films together, top billing went to Richard Greene, who was the film's romantic lead. Rathbone was billed second. Wendy Barrie, who played Beryl Stapleton, the woman with whom Greene falls in love, received third billing, and Nigel Bruce, the film's Dr. Watson, was billed fourth. In all their other Holmes films, Rathbone and Bruce would receive first and second billing respectively.\r\n\r\nThe Hound of the Baskervilles marks the first of the fourteen Sherlock Holmes films starring Rathbone and Bruce as Holmes and Watson, respectively. It is also notable as the earliest known Sherlock Holmes film to be set in the Victorian period of the original stories; all known previous Holmes films, up to and including the 1930s British film series starring Arthur Wontner as Holmes, had been updated to a setting contemporaneous with the films' release. It is also the only film in the series to be a strict adaptation of a source material, while subsequent installments would feature original titles and incorporate various elements of different stories.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "80 min.",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:hasPart": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1933",
+            "display_title": "Philip St. John Basil Rathbone",
+            "is_public": true,
+            "property_id": 34,
+            "property_label": "Has Part",
+            "thumbnail_title": "Basil Rathbone as Sherlock Holmes",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 1933,
+            "value_resource_name": "items"
+        },
+        {
+            "@value": "Nigel Bruce\r\nRichard Greene\r\nWendy Barrie",
+            "is_public": true,
+            "property_id": 34,
+            "property_label": "Has Part",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isVersionOf": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1792",
+            "display_title": "The Hound of the Baskervilles",
+            "is_public": true,
+            "property_id": 27,
+            "property_label": "Is Version Of",
+            "thumbnail_title": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Cover_%28Hound_of_Baskervilles%2C_1902%29.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/52a5b041cda12c27937dce69a2790dbe907bfd07.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 1792,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "\tGene Markey",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Hound of the Baskervilles",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T19:14:23+00:00"
+    },
+    "o:id": 2136,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2137",
+            "o:id": 2137
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2138",
+            "o:id": 2138
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2139",
+            "o:id": 2139
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T19:17:40+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/34",
+        "o:id": 34
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/6",
+        "o:id": 6
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Hound of the Baskervilles",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/8b921f8ac8fc98fe614fa5e4b148ba269febe13d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/8b921f8ac8fc98fe614fa5e4b148ba269febe13d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/8b921f8ac8fc98fe614fa5e4b148ba269febe13d.jpg"
+    }
+}

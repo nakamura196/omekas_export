@@ -1,0 +1,140 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1841",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+            "display_title": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Arthur Conany Doyle by Walter Benington, 1914",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 124,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "February 1904",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Forest Row in the Weald is the scene of a gruesome harpoon murder, and a young police inspector, Stanley Hopkins, asks Holmes, whom he admires, for help. Holmes has already determined that it would take a great deal of strength and skill to run a man through with a harpoon and embed it in the wall behind him.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "BLAC",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1708",
+            "display_title": "The Return of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "thumbnail_title": "First US Edition",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/a7c64bdfe46a12c88199fddf2663f1e934e08d4e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 1708,
+            "value_resource_name": "items"
+        },
+        {
+            "@value": "The Return of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "Collier's Magazine",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Adventure of Black Peter",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "short story",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:12+00:00"
+    },
+    "o:id": 1841,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "o:id": 255
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1859",
+            "o:id": 1859
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Adventure of Black Peter",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cd50b6bf592bf84eecb50d8d75a9df5a44bc9fd0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cd50b6bf592bf84eecb50d8d75a9df5a44bc9fd0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cd50b6bf592bf84eecb50d8d75a9df5a44bc9fd0.jpg"
+    }
+}

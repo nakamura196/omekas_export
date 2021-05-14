@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2278",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:53:44+00:00"
+    },
+    "o:filename": "eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+    "o:id": 2278,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2277",
+        "o:id": 2277
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "21a1716b111ec292e2bd51ccdfc3040a5c2c367b83f36c204024e26cb1f79910",
+    "o:size": null,
+    "o:source": "harpsichord.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/eecd232a810dbb06d7bcec6aa2f3809b2574a0a4.jpg"
+    }
+}

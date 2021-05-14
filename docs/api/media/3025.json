@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3025",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "Screenshot from frontispiece of GoogleBooks edition of Hunt, Gailliard, ed. The First Forty Years of Washington Society: Portrayed by the Family Letters of Mrs. Samuel Harrison Smith (Margaret Bayard) from the Collection of her Grandson, J. Henley Smith. New York: Scribner, 1906.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:11+00:00"
+    },
+    "o:filename": "cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.png",
+    "o:id": 3025,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/480",
+        "o:id": 480
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.png",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "0a0c53a0da55d2c71c7cd29cd237c35ddbf3a5dbd76cf5e1e97e8fa611b4abcf",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/23b929da599d7724bdfba7685f5a99d2.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cb075efe18b4cfdb95347283deb6d0e1dbaf3ceb.jpg"
+    }
+}

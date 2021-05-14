@@ -1,0 +1,106 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/3",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 3,
+    "o:label": "Textual Work",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/31",
+        "o:id": 31
+    },
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [
+                "literal"
+            ],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [
+                "literal"
+            ],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/7",
+                "o:id": 7
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/5",
+                "o:id": 5
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [
+                "literal"
+            ],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": "Library of Congress ",
+            "o:alternate_label": null,
+            "o:data_type": [
+                "valuesuggest:lc:subjects"
+            ],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/3",
+                "o:id": 3
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [
+                "customvocab:3"
+            ],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/15",
+                "o:id": 15
+            }
+        }
+    ],
+    "o:title_property": null
+}

@@ -1,0 +1,183 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2133",
+    "@type": [
+        "o:Item",
+        "dctype:MovingImage"
+    ],
+    "dcterms:created": [
+        {
+            "@value": "1984",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Michael Cox",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Sherlock Holmes is the name given to the TV series of Sherlock Holmes adaptations produced by British television company Granada Television between 1984 and 1994, with the first two series bearing the title The Adventures Of Sherlock Holmes on screen and being followed by subsequent sub-series bearing the titles of other short story collections by Arthur Conan Doyle. The series was broadcast on the ITV network in the UK and starred Jeremy Brett as the famous detective. His portrayal remains very popular and is accepted by some as the definitive on-screen version of Sherlock Holmes.[1][2][3]\r\n\r\nIn addition, Holmes's faithful friend and companion Dr. Watson is portrayed as the kind of thoroughly competent sidekick that Holmes would want. Initially, Watson was portrayed by David Burke (who had earlier played the villain in an adaptation of \"The Adventure of the Beryl Coronet\" for the 1965 BBC series[4] starring Douglas Wilmer and Nigel Stock). Burke appeared in the first year of the Adventures series before leaving to join the Royal Shakespeare Company.[5][6] He was replaced by Edward Hardwicke, who played Watson for the remainder of the run.[6]\r\n\r\nOf the 60 Holmes stories written by Sir Arthur Conan Doyle, 42 were adapted in the series spanning 36 one-hour episodes and five feature-length specials. (The elements of two stories were combined in one episode, accounting for the different numbers.)",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/Sherlock_Holmes_(1984_TV_series)",
+            "is_public": true,
+            "o:label": "Wikipedia entry",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "9",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:hasPart": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1940",
+            "display_title": "Jeremy Brett",
+            "is_public": true,
+            "property_id": 34,
+            "property_label": "Has Part",
+            "thumbnail_title": "Jeremy Brett as Sherlock Holmes",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 1940,
+            "value_resource_name": "items"
+        },
+        {
+            "@value": "Edward Hardwicke",
+            "is_public": true,
+            "property_id": 34,
+            "property_label": "Has Part",
+            "type": "literal"
+        },
+        {
+            "@value": "David Burke",
+            "is_public": true,
+            "property_id": 34,
+            "property_label": "Has Part",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isVersionOf": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "display_title": "Sherlock Holmes Canon",
+            "is_public": true,
+            "property_id": 27,
+            "property_label": "Is Version Of",
+            "thumbnail_title": "Cover of \"The Memoirs of Sherlock Holmes\", by Arthur Conan Doyle. Sourced from Mediawiki",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/bc38c233dcca1e422fca0063f60600d74293a3d6.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 255,
+            "value_resource_name": "item_sets"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "ITV Granada",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@value": "The Adventures of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:status": [
+        {
+            "@value": "no",
+            "is_public": true,
+            "property_id": 184,
+            "property_label": "status",
+            "type": "customvocab:2"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T19:00:55+00:00"
+    },
+    "o:id": 2133,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2134",
+            "o:id": 2134
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2135",
+            "o:id": 2135
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T19:17:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/34",
+        "o:id": 34
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/5",
+        "o:id": 5
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6ff3130774bc53f706bf425f2d62d88c3dbab7f5.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6ff3130774bc53f706bf425f2d62d88c3dbab7f5.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6ff3130774bc53f706bf425f2d62d88c3dbab7f5.jpg"
+    }
+}

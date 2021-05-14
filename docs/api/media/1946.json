@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1946",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T15:36:02+00:00"
+    },
+    "o:filename": "138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+    "o:id": 1946,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1945",
+        "o:id": 1945
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "ea57cccbd2be494db15a15f6c0c601883d00be103949ee4af0b48b4ae5881ecc",
+    "o:size": null,
+    "o:source": "sherlock_holmes christopher_lee.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/138f9ae8c2e03878364f98cc3be2dc85753c4e92.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2230",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:17:54+00:00"
+    },
+    "o:filename": "bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+    "o:id": 2230,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2229",
+        "o:id": 2229
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e2c075570d016bd0d88a8b7316545637cf8888fbffd112257f46be09d0d421fa",
+    "o:size": null,
+    "o:source": "chestnut grove.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/bcfd6686506b479ebcfa5e183210ceeed0bc6d69.jpg"
+    }
+}

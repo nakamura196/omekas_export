@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3257",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:date": [
+        {
+            "@value": "1919",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Photo Company Collection, Library of Congress Prints and Photographs Division",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:53+00:00"
+    },
+    "o:filename": "378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+    "o:id": 3257,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/910",
+        "o:id": 910
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "5dd7f3417586594207c60e5f547de4ac9ba4d5939739e48086d1e05dfde07050",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/4a4064ac74e50401995f64a86326c357.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/378964e14b094142442b4004b2a9b7dfd07c3380.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/378964e14b094142442b4004b2a9b7dfd07c3380.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/378964e14b094142442b4004b2a9b7dfd07c3380.jpg"
+    }
+}

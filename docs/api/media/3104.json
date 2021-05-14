@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3104",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:description": [
+        {
+            "@value": "S. Dillon Ripley, eighth Secretary of the Smithsonian Institution, and unidentified children riding on the carousel in front of the Arts and Industries Building",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "Smithsonian Institution Archives",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "For permission to reproduce or publish, contact osiaref@si.edu or call 202-633-5870. To order reproductions, call 202-633-1933 or contact photos@si.edu",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://siarchives.si.edu/collections/siris_sic_8247?back=%2Fcollections%2Fsearch%3Fquery%3Dcarousel%26page%3D1%26perpage%3D10%26sort%3Drelevancy%26view%3Dlist",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:45+00:00"
+    },
+    "o:filename": "7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+    "o:id": 3104,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/605",
+        "o:id": 605
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "10b9461dc747b0ffe5f210167711a5071d7ff93d547bb1c726c0d3d233a7ba01",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/6d10034d8cb42eb835649d9cb9a41b9d.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7f7c7969e97dbef18b72513292f9e86c01b08ee1.jpg"
+    }
+}

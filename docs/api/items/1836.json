@@ -1,0 +1,140 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1836",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+            "display_title": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Arthur Conany Doyle by Walter Benington, 1914",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 124,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "March 1893",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "A young clerk, Hall Pycroft, consults Holmes with his suspicions concerning a company that has offered him a very well-paid job.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "STOC",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/241",
+            "display_title": "The Memoirs of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "thumbnail_title": "Cover of \"The Memoirs of Sherlock Holmes\", by Arthur Conan Doyle. Sourced from Mediawiki",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/bc38c233dcca1e422fca0063f60600d74293a3d6.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 241,
+            "value_resource_name": "items"
+        },
+        {
+            "@value": "Memoirs of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "The Strand Magazine",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Adventure of the Stockbroker's Clerk",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "short story",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:09+00:00"
+    },
+    "o:id": 1836,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "o:id": 255
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1854",
+            "o:id": 1854
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Adventure of the Stockbroker's Clerk",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg"
+    }
+}

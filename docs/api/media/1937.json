@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1937",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Edward Hardwicke and Jeremey Brett, 1988",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T14:58:29+00:00"
+    },
+    "o:filename": "0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+    "o:id": 1937,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1935",
+        "o:id": 1935
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d1bb57d6ab89398143a5bbcf7edf471107975cf2520681db01c110fc3b321d81",
+    "o:size": null,
+    "o:source": "brett_train1.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg"
+    },
+    "o:title": "Edward Hardwicke and Jeremey Brett, 1988",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0e2b9d9972e51ee4d9ec2968d904f7359e5428e4.jpg"
+    }
+}

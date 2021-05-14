@@ -1,0 +1,55 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1962",
+    "@type": "o:Media",
+    "data": {
+        "id": "7FobtXjLw48"
+    },
+    "dcterms:title": [
+        {
+            "@value": "Elementary trailer",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:55:24+00:00"
+    },
+    "o:filename": "0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359",
+    "o:id": 1962,
+    "o:ingester": "youtube",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1959",
+        "o:id": 1959
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "youtube",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://www.youtube.com/watch?v=7FobtXjLw48",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg"
+    },
+    "o:title": "Elementary trailer",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0d3b68aee94a6a77b8dd6d57cdc14c3fe466c359.jpg"
+    }
+}

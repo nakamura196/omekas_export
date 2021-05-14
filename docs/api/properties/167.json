@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/167",
+    "@type": "o:Property",
+    "o:comment": "A project this person has previously worked on.",
+    "o:id": 167,
+    "o:label": "past project",
+    "o:local_name": "pastProject",
+    "o:term": "foaf:pastProject",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

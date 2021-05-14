@@ -1,0 +1,89 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1096",
+    "@type": "o:Item",
+    "dcterms:title": [
+        {
+            "@value": "Ulysses S. Grant Memorial",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/825",
+            "o:id": 825
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:17+00:00"
+    },
+    "o:id": 1096,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3341",
+            "o:id": 3341
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3342",
+            "o:id": 3342
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3343",
+            "o:id": 3343
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3344",
+            "o:id": 3344
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3345",
+            "o:id": 3345
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3346",
+            "o:id": 3346
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3347",
+            "o:id": 3347
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3348",
+            "o:id": 3348
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Ulysses S. Grant Memorial",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/847a7ce9034add08152dc5b824e73576f16f7c34.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/847a7ce9034add08152dc5b824e73576f16f7c34.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/847a7ce9034add08152dc5b824e73576f16f7c34.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1854",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:09+00:00"
+    },
+    "o:filename": "ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+    "o:id": 1854,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1836",
+        "o:id": 1836
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1038b0964698b418284a9a279db4a54221d70fc4aebd1f90af3b028d1c42119b",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Stoc-05.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ffe5f2c71f81e76a3188a6555ccbb0e4e2552f86.jpg"
+    }
+}

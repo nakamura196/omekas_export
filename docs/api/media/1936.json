@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1936",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Paget's original illustration, 1892",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T14:58:29+00:00"
+    },
+    "o:filename": "dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+    "o:id": 1936,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1935",
+        "o:id": 1935
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c34a0daef80d82260822cf17118ed1af811551168fec7bd8bc8b8b62f0dec187",
+    "o:size": null,
+    "o:source": "paget_train.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg"
+    },
+    "o:title": "Paget's original illustration, 1892",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/dc1aba1d224208f5d31922922743cdf2764df8cd.jpg"
+    }
+}

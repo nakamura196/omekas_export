@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2209",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:19:00+00:00"
+    },
+    "o:filename": "2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+    "o:id": 2209,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2193",
+        "o:id": 2193
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/5",
+        "o:id": 5
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "328b8c31149b149f6f10bdfaa586702c6b0a12bbda9d5d1f997096f3b3216fd6",
+    "o:size": null,
+    "o:source": "http://www.moma.org/media/W1siZiIsIjc2OTU1Il0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgMzAweDMwMFx1MDAzZSJdXQ.jpg?sha=8417be70118526c5",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/2ec6bf2b2c7e16aa372ca6df7549697df72f486e.jpg"
+    }
+}

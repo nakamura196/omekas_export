@@ -1,0 +1,82 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/919",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Some baseball clubs in the 1860s exchanged ribbons printed with their team names just before a game. Some players collected the ribbons on their uniforms, displaying all the teams they had faced. These ribbons are from the Washington Nationals and the Philadelphia Athletics. The Nationals' home field was the Ellipse, just south of the White House. In 1865, the Nationals faced the Athletics in a tournament which drew hundreds of spectators, including President Andrew Johnson. These ribbons may not be from that game, but they are from the collection of an early fan of Washington baseball.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Courtesy of the Historical Society of Washington, DC.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Baseball ribbons",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:38:41+00:00"
+    },
+    "o:id": 919,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3266",
+            "o:id": 3266
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:06:05+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Baseball ribbons",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/67493ba81f2785e0c1b12280ea48d97946bc8f70.jpg"
+    }
+}

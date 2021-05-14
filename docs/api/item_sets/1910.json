@@ -1,0 +1,41 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "Martha Washington: A Life",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T18:12:44+00:00"
+    },
+    "o:id": 1910,
+    "o:is_open": true,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?item_set_id=1910"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T18:44:34+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Martha Washington: A Life",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4a120e842f3b4eebc35b0220688fcbb82c01453b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4a120e842f3b4eebc35b0220688fcbb82c01453b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4a120e842f3b4eebc35b0220688fcbb82c01453b.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2122",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:37+00:00"
+    },
+    "o:filename": "676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+    "o:id": 2122,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2106",
+        "o:id": 2106
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "4944660f4c33e0b44b14b7f0fd1f29b8de092e4bd82ebce9d80787f26413a20c",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/John_Quincy_Adams_by_Gilbert_Stuart%2C_1818.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/676e8272b0d461d3e17e45be1ecfe2edee01eddd.jpg"
+    }
+}

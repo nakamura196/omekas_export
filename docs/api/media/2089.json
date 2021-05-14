@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2089",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T15:59:49+00:00"
+    },
+    "o:filename": "5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+    "o:id": 2089,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2080",
+        "o:id": 2080
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "bea1036162ae2924f4101d1db68798cd61c54a2bd0b424b936e99ae14f2c0192",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/EmmaTitlePage.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5383d9e51b534678bd1e153828be55e1334fad71.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5383d9e51b534678bd1e153828be55e1334fad71.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5383d9e51b534678bd1e153828be55e1334fad71.jpg"
+    }
+}

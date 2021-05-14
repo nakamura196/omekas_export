@@ -1,0 +1,144 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/257",
+    "@type": [
+        "o:Item",
+        "dctype:Text"
+    ],
+    "dcterms:creator": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+            "display_title": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Arthur Conany Doyle by Walter Benington, 1914",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 124,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1927",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "The Case-Book of Sherlock Holmes is the final set of twelve (out of a total of fifty-six) Sherlock Holmes short stories by Arthur Conan Doyle first published in the Strand Magazine between October 1921 and April 1927.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@id": "https://en.wikipedia.org/wiki/The_Case-Book_of_Sherlock_Holmes",
+            "is_public": true,
+            "o:label": "wikipedia",
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "uri"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/258",
+            "display_title": "John Murray (publisher)",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "thumbnail_title": "John-Murray-logo.png",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 258,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@id": "http://id.loc.gov/authorities/subjects/sh2008105714",
+            "is_public": true,
+            "o:label": "Holmes, Sherlock--Fiction",
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "valuesuggest:lc:subjects"
+        },
+        {
+            "@id": "http://id.loc.gov/authorities/subjects/sh85037260",
+            "is_public": true,
+            "o:label": "Detective and mystery stories",
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "valuesuggest:lc:subjects"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Case-Book of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:48:26+00:00"
+    },
+    "o:id": 257,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "o:id": 255
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1700",
+            "o:id": 1700
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:30:45+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/31",
+        "o:id": 31
+    },
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/3",
+        "o:id": 3
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Case-Book of Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg"
+    }
+}

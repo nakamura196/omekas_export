@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1814",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:18:59+00:00"
+    },
+    "o:filename": "4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+    "o:id": 1814,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1794",
+        "o:id": 1794
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1281acd90ac2ac09a65ea914f07a421d1b8330e049383332bd1d01d4aebe59de",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/b/b6/A_Scandal_in_Bohemia-04.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4b7406949e2eccaef3b424e65f76ad8ba1c688dc.jpg"
+    }
+}

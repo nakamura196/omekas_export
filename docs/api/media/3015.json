@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3015",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Harris & Ewing",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "between 1905 and 1945",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division http://www.loc.gov/pictures/item/hec2009007628/",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "GLASSFORD, BELHAM. GENERAL",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:08+00:00"
+    },
+    "o:filename": "12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+    "o:id": 3015,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/420",
+        "o:id": 420
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d167a24abb87ada4b5c3dcc39d87f3dd758323d9ae9c5c760fec1d28d7e523f6",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/c382fd61dc4cb4a51177bb5382d50d0b.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/12398c20bd35011f0d56976d7f235ce40c03027c.jpg"
+    },
+    "o:title": "GLASSFORD, BELHAM. GENERAL",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/12398c20bd35011f0d56976d7f235ce40c03027c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/12398c20bd35011f0d56976d7f235ce40c03027c.jpg"
+    }
+}

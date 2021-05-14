@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1938",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Benedict Cumberbatch and Martin Freeman, 2010",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T14:58:29+00:00"
+    },
+    "o:filename": "170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+    "o:id": 1938,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1935",
+        "o:id": 1935
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e14ba88201463137e642449ae399ac8a6d45d5a240c09eb84391eae3ceb7558c",
+    "o:size": null,
+    "o:source": "cumberbatch_pagetblaze.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg"
+    },
+    "o:title": "Benedict Cumberbatch and Martin Freeman, 2010",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/170ae46a2f34adfea669de1b1c2bb820f79165af.jpg"
+    }
+}

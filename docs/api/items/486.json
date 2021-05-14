@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/486",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Alexander Robey Shepherd",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "As a member of the DC Board of Public Works and later as Governor of the District of Columbia, Alexander Robey \"Boss\" Shepherd managed a number of public works programs in the 1870s. He oversaw the project to fill in the part of the Washington City Canal which ran along present-day Constitution Avenue. A statue honoring Shepherd can be found just off the Mall at the intersection of 14th Street and Pennsylvania, Avenue, NW.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "William Tindall, \"Governor Alexander R. Shepherd's Photograph,\" Records of the Columbia Historical Society, Washington, D.C. , Vol. 24, (1922), facing page 192. View original image.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Alexander Robey Shepherd",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:33+00:00"
+    },
+    "o:id": 486,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3031",
+            "o:id": 3031
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Alexander Robey Shepherd",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b4fc7f462a3dcd49c19ca0075528cfb30ece83a0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b4fc7f462a3dcd49c19ca0075528cfb30ece83a0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b4fc7f462a3dcd49c19ca0075528cfb30ece83a0.jpg"
+    }
+}

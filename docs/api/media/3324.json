@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3324",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:rights": [
+        {
+            "@value": "Attribution 2.0 Generic (CC-BY)",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://www.flickr.com/photos/yoke_mc/12469525/in/set-304421",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Joacim Osterstam",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:08:23+00:00"
+    },
+    "o:filename": "cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+    "o:id": 3324,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1027",
+        "o:id": 1027
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6fed4ce506c6ab80c1f9c2c24ec36b04b928aba09b3d2b8c2ce55c1d4512d776",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/e5d0d7d477587bbba6cc0a3b71e20ef3.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg"
+    },
+    "o:title": "Joacim Osterstam",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cd5f592f1958d9ab790bd2b0150ffc31ec80660b.jpg"
+    }
+}

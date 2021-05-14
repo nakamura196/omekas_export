@@ -1,0 +1,89 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3032",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:date": [
+        {
+            "@value": "January 18, 1964",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "Wikimedia Commons",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "Public Domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://commons.wikimedia.org/wiki/File:Whitney_Young_at_White_House,_January_18,_1964.jpg",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Whitney Young at White House, January 18, 1964",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:17+00:00"
+    },
+    "o:filename": "6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+    "o:id": 3032,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/487",
+        "o:id": 487
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "c1ce48dd352a5c8aaf5d783d797ca432f83beb9453ce2472b21eb3a54be53653",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/d8e8e37dc8b5821b825a45e9f2de57d1.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg"
+    },
+    "o:title": "Whitney Young at White House, January 18, 1964",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6cb0738cb14a2cdef4bab9eb374a206c4c235237.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1852",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:08+00:00"
+    },
+    "o:filename": "6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+    "o:id": 1852,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1834",
+        "o:id": 1834
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "42b88cad3f91a3fd1211d907c67c79b34d26e3390e75e69631b03ef9cf579423",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/2/29/Sherlock_rose_Naval_Treaty.JPG",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/6ca802a2ede46b69c239c9bb5d1d00e9d0b5773e.jpg"
+    }
+}

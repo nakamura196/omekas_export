@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3322",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Carol M. Highsmith",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1980-2006",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://www.loc.gov/pictures/collection/highsm/item/2011630790/",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "East wing, National Gallery of Art",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:08:23+00:00"
+    },
+    "o:filename": "f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+    "o:id": 3322,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1025",
+        "o:id": 1025
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "592bef174931ec31cebf33342a367598984bb7afff8da7c222b7cdb48faca59c",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/2a128ce50bc2b67a3e98521b8051e221.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg"
+    },
+    "o:title": "East wing, National Gallery of Art",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f7c4b6f95deb066174704f3fd9db1310fca1c5e0.jpg"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/243",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Arthur Conany Doyle by Walter Benington, 1914",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T16:54:29+00:00"
+    },
+    "o:filename": "caa5469083f7edccc08248f396499109798c7b6d.png",
+    "o:id": 243,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+        "o:id": 124
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/caa5469083f7edccc08248f396499109798c7b6d.png",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "63ff08f19beff10cfd12fb037800b942e86bf0a1a1be928c891e75a193f91559",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Arthur_Conany_Doyle_by_Walter_Benington%2C_1914.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg"
+    },
+    "o:title": "Arthur Conany Doyle by Walter Benington, 1914",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg"
+    }
+}

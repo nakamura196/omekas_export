@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1955",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Cumberbatch in 2014",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:29:41+00:00"
+    },
+    "o:filename": "a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+    "o:id": 1955,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1954",
+        "o:id": 1954
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "724a2188b69a6469b9f9ad0771a8b585571fac596278fd4a19ddda343b06e89c",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Benedict_Cumberbatch_SDCC_2014.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg"
+    },
+    "o:title": "Cumberbatch in 2014",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a0e80f4aace27fc054b4ff7b98ff41942810f839.jpg"
+    }
+}

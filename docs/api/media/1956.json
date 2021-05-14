@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1956",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Cumberbatch as Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:30:31+00:00"
+    },
+    "o:filename": "58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+    "o:id": 1956,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1954",
+        "o:id": 1954
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "935b4a43108ab7f6a8f9fe26e18c9dadcebe50db96c27372f60eed47035b19ad",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Benedict_Cumberbatch_filming_Sherlock_cropped.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg"
+    },
+    "o:title": "Cumberbatch as Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/58fbd5d57e940308a1e25ab312ed36e49a469bec.jpg"
+    }
+}

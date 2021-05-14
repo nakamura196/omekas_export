@@ -1,0 +1,220 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-01T17:38:25+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 4,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            "275"
+        ],
+        "o:site_item_set": [
+            {
+                "o:item_set": {
+                    "o:id": "275"
+                }
+            }
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:03:24+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 50,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "Map"
+            },
+            "links": [],
+            "type": "mapping"
+        },
+        {
+            "data": {
+                "id": 52,
+                "label": ""
+            },
+            "links": [
+                {
+                    "data": {
+                        "id": 56,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                },
+                {
+                    "data": {
+                        "id": 53,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                }
+            ],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 58,
+                "label": ""
+            },
+            "links": [
+                {
+                    "data": {
+                        "id": 60,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                },
+                {
+                    "data": {
+                        "id": 59,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                },
+                {
+                    "data": {
+                        "id": 61,
+                        "label": ""
+                    },
+                    "links": [],
+                    "type": "page"
+                }
+            ],
+            "type": "page"
+        },
+        {
+            "data": {
+                "id": 57,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "See Also",
+                "url": "http://mallhistory.org/"
+            },
+            "links": [],
+            "type": "url"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:page": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/50",
+            "o:id": 50
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/56",
+            "o:id": 56
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/58",
+            "o:id": 58
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/57",
+            "o:id": 57
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/59",
+            "o:id": 59
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/51",
+            "o:id": 51
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/52",
+            "o:id": 52
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/61",
+            "o:id": 61
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/60",
+            "o:id": 60
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/site_pages/53",
+            "o:id": 53
+        }
+    ],
+    "o:site_item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?site_id=4"
+    },
+    "o:site_item_set": [
+        {
+            "o:item_set": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+                "o:id": 275
+            }
+        }
+    ],
+    "o:site_permission": [
+        {
+            "o:role": "viewer",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+                "o:id": 3
+            }
+        },
+        {
+            "o:role": "editor",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:role": "editor",
+            "o:user": {
+                "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/5",
+                "o:id": 5
+            }
+        }
+    ],
+    "o:slug": "mallhistory",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:title": "Mall History Content"
+}

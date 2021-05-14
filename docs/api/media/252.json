@@ -1,0 +1,55 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/252",
+    "@type": "o:Media",
+    "data": {
+        "id": "cwqhdRs4jyA"
+    },
+    "dcterms:title": [
+        {
+            "@value": "The End of the Line",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:43:26+00:00"
+    },
+    "o:filename": "cff7ba24f0105688ff2a0b3f9460f3f156c88ddb",
+    "o:id": 252,
+    "o:ingester": "youtube",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/251",
+        "o:id": 251
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": null,
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "youtube",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://www.youtube.com/watch?v=cwqhdRs4jyA",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg"
+    },
+    "o:title": "The End of the Line",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1822",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:02+00:00"
+    },
+    "o:filename": "2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+    "o:id": 1822,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1802",
+        "o:id": 1802
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "0e21454c6c17d84a8b579f940f7365ae35b6320e2db4611c80506fea5879d043",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/9/97/Engr-07.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/2d198e780079a107d9f351ca93a1f2514ee15d90.jpg"
+    }
+}

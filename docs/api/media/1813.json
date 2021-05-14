@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1813",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:18:58+00:00"
+    },
+    "o:filename": "4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+    "o:id": 1813,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1793",
+        "o:id": 1793
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "0d524bc70d82af4bf383052eab82cc7d527d6a367d63c085d22eb7e68468d117",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/8/84/Valley_of_fear.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4ae23c35166c49aad3278799ae35e27f6e646e9a.jpg"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1872",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/124",
+            "display_title": "Sir Arthur Ignatius Conan Doyle",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "Arthur Conany Doyle by Walter Benington, 1914",
+            "thumbnail_type": "image/png",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 124,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "October 1924",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "As usual, things aren't what they seem",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3GAR",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:isPartOf": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/257",
+            "display_title": "The Case-Book of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "thumbnail_title": "Dust jacket of the first edition",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/4fa6be8d090dde94fc58a734487b407a19f1953f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 257,
+            "value_resource_name": "items"
+        },
+        {
+            "@value": "The Case-Book of Sherlock Holmes",
+            "is_public": true,
+            "property_id": 33,
+            "property_label": "Is Part Of",
+            "type": "literal"
+        }
+    ],
+    "dcterms:publisher": [
+        {
+            "@value": "Collier's Magazine",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Adventure of the Three Garridebs",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "short story",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:29:17+00:00"
+    },
+    "o:id": 1872,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/255",
+            "o:id": 255
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1892",
+            "o:id": 1892
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Adventure of the Three Garridebs",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0ccc8cfb75f6e1767d2f1d489963d5f2dc5a3005.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0ccc8cfb75f6e1767d2f1d489963d5f2dc5a3005.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0ccc8cfb75f6e1767d2f1d489963d5f2dc5a3005.jpg"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1952",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Miller in Elementary",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T16:26:41+00:00"
+    },
+    "o:filename": "ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+    "o:id": 1952,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1950",
+        "o:id": 1950
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1ae9f2201a79f65f50dbaefbbaf80ad0a8b336132207891856d913c0d673c27e",
+    "o:size": null,
+    "o:source": "miller_elementary.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg"
+    },
+    "o:title": "Miller in Elementary",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ab56507cc6bc0a8c955e0885d80eade13ba6b72a.jpg"
+    }
+}

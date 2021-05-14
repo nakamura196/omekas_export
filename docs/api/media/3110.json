@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3110",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:creator": [
+        {
+            "@value": "Cristiano Del Riccio",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2009",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://en.wikipedia.org/wiki/File:Rolling_Thunder,_Memorial_Bridge.jpg",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Rolling Thunder, Memorial Bridge",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:49+00:00"
+    },
+    "o:filename": "694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+    "o:id": 3110,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/611",
+        "o:id": 611
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "bd5cd2dfbc82929fbc2d605ec6602da174864d60e0592b4ebab494e40e22e0f7",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/80b2d211caa8d0cc460e8cd895064673.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/694a017f7438d282177a9a63b4148651a6ceaf01.jpg"
+    },
+    "o:title": "Rolling Thunder, Memorial Bridge",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/694a017f7438d282177a9a63b4148651a6ceaf01.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/694a017f7438d282177a9a63b4148651a6ceaf01.jpg"
+    }
+}

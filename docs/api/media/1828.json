@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1828",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:05+00:00"
+    },
+    "o:filename": "73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+    "o:id": 1828,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1808",
+        "o:id": 1808
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "21c212724f07d1f169cacd3641ffe7bbd21e583dee3c32f8dbd3225d7da5ce8e",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/2/20/Paget_Holmes_Yellow_Face_child.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/73accb6be9b3de31e2b66ecc2214a43202b758a6.jpg"
+    }
+}

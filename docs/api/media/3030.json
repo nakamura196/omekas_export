@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3030",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "http://www.loc.gov/item/99446115",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Detail of Smith Map",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:15+00:00"
+    },
+    "o:filename": "67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+    "o:id": 3030,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/485",
+        "o:id": 485
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "0e66a5bf97d3949a589a733930c3158ccaad32bbc236da47391dad479a32f976",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/3c6865ad9ed597255a1b91e3329fcf30.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg"
+    },
+    "o:title": "Detail of Smith Map",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/67e78e69303ba8a0a67984435fe62c6d0e9e6d3c.jpg"
+    }
+}

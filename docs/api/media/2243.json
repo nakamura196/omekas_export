@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2243",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:30:05+00:00"
+    },
+    "o:filename": "64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+    "o:id": 2243,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2242",
+        "o:id": 2242
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "ba3c4bfb4b7fb8d404aa50144008751729765386112ce09f566e4d5ff011bcb7",
+    "o:size": null,
+    "o:source": "mini.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/64e5cf980bcea9cf1ebf30551be7cfe60a567e35.jpg"
+    }
+}

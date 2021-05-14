@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1941",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Jeremy Brett as Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T15:05:07+00:00"
+    },
+    "o:filename": "0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+    "o:id": 1941,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1940",
+        "o:id": 1940
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "f86ed512e10d48dc7e24bc670d3e78121406a6bfe0303add4d36927dfdcd60f5",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/en/4/4f/Jeremy_Brett_as_Sherlock_Holmes.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg"
+    },
+    "o:title": "Jeremy Brett as Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0a13b9009498cf8d72d93d80f90c6b925f791428.jpg"
+    }
+}

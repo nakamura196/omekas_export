@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1934",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Basil Rathbone as Sherlock Holmes",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-27T13:39:20+00:00"
+    },
+    "o:filename": "664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpeg",
+    "o:id": 1934,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1933",
+        "o:id": 1933
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpeg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "edc0383f08ea7c2d89e4677aca69af3779af5b142b42beacc65effe08789510f",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Basil_Rathbone_Sherlock_Holmes.jpeg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg"
+    },
+    "o:title": "Basil Rathbone as Sherlock Holmes",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/664f10d9501f69c04cd58e4cfc9bc84a5a95df34.jpg"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+    "@type": "o:ItemSet",
+    "dcterms:description": [
+        {
+            "@value": "A copy of the content from Histories of the National Mall",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "http://mallhistory.org/",
+            "is_public": true,
+            "o:label": "Histories of the National Mall",
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Mall Histories",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:36:07+00:00"
+    },
+    "o:id": 275,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?item_set_id=275"
+    },
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Mall Histories",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/df84e1e13a1e219ad596530f7b79c4aa5076397e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/df84e1e13a1e219ad596530f7b79c4aa5076397e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/df84e1e13a1e219ad596530f7b79c4aa5076397e.jpg"
+    }
+}

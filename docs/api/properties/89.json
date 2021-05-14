@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/89",
+    "@type": "o:Property",
+    "o:comment": "An chapter number",
+    "o:id": 89,
+    "o:label": "chapter",
+    "o:local_name": "chapter",
+    "o:term": "bibo:chapter",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/3",
+        "o:id": 3
+    }
+}

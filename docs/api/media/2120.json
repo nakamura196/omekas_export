@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2120",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:34+00:00"
+    },
+    "o:filename": "ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpeg",
+    "o:id": 2120,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2104",
+        "o:id": 2104
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpeg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3ef029034964f71adca0f1da984aa0231df85f4a3255276f81fef21f8e7751e2",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Madison_by_Gilbert_Stuart_1804.jpeg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ef8e7d5e4811bf0565bfa1554cc0faec1a83eadc.jpg"
+    }
+}

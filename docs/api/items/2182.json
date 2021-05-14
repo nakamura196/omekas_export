@@ -1,0 +1,86 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2182",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "Home of the Metropolitan Police Service.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Scotland Yard",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:mapping": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mappings/50",
+        "o:id": 50
+    },
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/118",
+            "o:id": 118
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/119",
+            "o:id": 119
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/120",
+            "o:id": 120
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/121",
+            "o:id": 121
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T20:02:44+00:00"
+    },
+    "o:id": 2182,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+            "o:id": 1705
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2183",
+            "o:id": 2183
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-05T20:11:43+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/3",
+            "o:id": 3
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Scotland Yard",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/e4d52511b6cad9ad39f31fc3187d9933621fcdb4.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/e4d52511b6cad9ad39f31fc3187d9933621fcdb4.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/e4d52511b6cad9ad39f31fc3187d9933621fcdb4.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1815",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:00+00:00"
+    },
+    "o:filename": "50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+    "o:id": 1815,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1795",
+        "o:id": 1795
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "22a357b166788c742acf0f54d29e0cc4cbe914789ec8b604db36d3c3c0fc193c",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/9/99/Redh-02.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/50260e9edb8083f89956c127f4144c5f553078cc.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/50260e9edb8083f89956c127f4144c5f553078cc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/50260e9edb8083f89956c127f4144c5f553078cc.jpg"
+    }
+}

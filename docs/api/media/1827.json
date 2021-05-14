@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1827",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:04+00:00"
+    },
+    "o:filename": "37008785957b9735b38c29720827865234befa32.jpg",
+    "o:id": 1827,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1807",
+        "o:id": 1807
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/37008785957b9735b38c29720827865234befa32.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fd90f7a396f3106ee37cb838a0a640cb597b44d4d8aa7b78e17d2479e5efa194",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/37008785957b9735b38c29720827865234befa32.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/37008785957b9735b38c29720827865234befa32.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/37008785957b9735b38c29720827865234befa32.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/37008785957b9735b38c29720827865234befa32.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/37008785957b9735b38c29720827865234befa32.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/37008785957b9735b38c29720827865234befa32.jpg"
+    }
+}

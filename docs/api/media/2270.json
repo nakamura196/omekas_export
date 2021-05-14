@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2270",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:49:13+00:00"
+    },
+    "o:filename": "d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+    "o:id": 2270,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2268",
+        "o:id": 2268
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6155e736b90171cadb8dc717dee4172a7c4a55f509ea27b3c186578e15827e83",
+    "o:size": null,
+    "o:source": "housewife2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d16bcd22476478aab6e60d8baadb20d5b60fb1fd.jpg"
+    }
+}

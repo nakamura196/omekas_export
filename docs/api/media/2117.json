@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2117",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:32+00:00"
+    },
+    "o:filename": "99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+    "o:id": 2117,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2101",
+        "o:id": 2101
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "96f3b2c1b3a995f156c057086858e4a273d6b32f58489db5466d775ced83b534",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/George_Washington_1795.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/99d958d0d7512dc8e6cb474f444a53763e39611b.jpg"
+    }
+}

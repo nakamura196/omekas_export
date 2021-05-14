@@ -1,0 +1,61 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/253",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "Demonstrates IIIF Media type",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "IIIF Example",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:44:59+00:00"
+    },
+    "o:id": 253,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/248",
+            "o:id": 248
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/254",
+            "o:id": 254
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "IIIF Example",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/578b70ad48cdcd58307816645c22f887a22c8379.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/578b70ad48cdcd58307816645c22f887a22c8379.jpg"
+    }
+}

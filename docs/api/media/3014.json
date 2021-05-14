@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3014",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "The New York Public Library",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:08+00:00"
+    },
+    "o:filename": "5a23dcd91948cd885df018d6d2400064e45bc551.jpeg",
+    "o:id": 3014,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/419",
+        "o:id": 419
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/5a23dcd91948cd885df018d6d2400064e45bc551.jpeg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "99f09967c3cd44024227fa1e340fff9fe23b2afac2ac8ec2f8e2a38bb0386d83",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/b144c83b29e3e267613fe14d011a03b8.jpeg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5a23dcd91948cd885df018d6d2400064e45bc551.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5a23dcd91948cd885df018d6d2400064e45bc551.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5a23dcd91948cd885df018d6d2400064e45bc551.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5a23dcd91948cd885df018d6d2400064e45bc551.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5a23dcd91948cd885df018d6d2400064e45bc551.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5a23dcd91948cd885df018d6d2400064e45bc551.jpg"
+    }
+}

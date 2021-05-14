@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3157",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Map of the city of Washington showing present main sewerage and sewage outfalls : also the territory flooded in June 1889 (detail)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:09+00:00"
+    },
+    "o:filename": "a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+    "o:id": 3157,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/711",
+        "o:id": 711
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fe623cf6a0f9545f9782acaab2edc832ee56625e2d52587368b5ea5d7bb5fc63",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/d8ac32b66bdb7d3a6bd8095ea9610b03.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg"
+    },
+    "o:title": "Map of the city of Washington showing present main sewerage and sewage outfalls : also the territory flooded in June 1889 (detail)",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a2757dbeb7589637600980ff5a1cd1cc434ca6bc.jpg"
+    }
+}

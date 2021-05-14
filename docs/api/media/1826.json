@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1826",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:04+00:00"
+    },
+    "o:filename": "010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+    "o:id": 1826,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1806",
+        "o:id": 1806
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "b58b2ae4150805c81757a251bba14150e4025ead60f68de37bda478d3bac0e75",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Silv-06.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/010feaf2cdf6a4748c3fd5ed8412ee8b76709f5d.jpg"
+    }
+}

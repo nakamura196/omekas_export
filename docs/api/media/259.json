@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/259",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:52:03+00:00"
+    },
+    "o:filename": "7c96239769be1116ef990b137244a0f974249d8f.png",
+    "o:id": 259,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/258",
+        "o:id": 258
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/7c96239769be1116ef990b137244a0f974249d8f.png",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "2b36d212197e456ea427938bf32adc67f145e73853302ec3c8eed04fb334c97b",
+    "o:size": null,
+    "o:source": "John-Murray-logo.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c96239769be1116ef990b137244a0f974249d8f.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/7c96239769be1116ef990b137244a0f974249d8f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/7c96239769be1116ef990b137244a0f974249d8f.jpg"
+    }
+}

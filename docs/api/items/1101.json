@@ -1,0 +1,103 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1101",
+    "@type": [
+        "o:Item",
+        "dctype:Event"
+    ],
+    "dcterms:coverage": [
+        {
+            "@value": "1860-1889",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "06/02/1889",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "On June 2, 1889, heavy rains caused massive flooding in Johnstown, Pennsylvania, and overwhelmed the South Fork Dam. The storm also hit the Washington, DC, area. As a result, the Potomac River flooded and areas around Pennsylvania Avenue were under several feet of water. The flooding was made worse by sewers that became clogged with dirt from unpaved roads and began overflowing, causing the water to rise. The only access between the east and west of the city was by boat.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Johnson, Willis Fletcher. History of the Johnstown Flood: With Full Accounts Also of the Destruction of the Susquehanna and Juniata Rivers, and the Bald Eagle Creek. J. W. Keeler &amp; co., 1889, 379.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Flood of 1889",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/830",
+            "o:id": 830
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:39:30+00:00"
+    },
+    "o:id": 1101,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3367",
+            "o:id": 3367
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:05:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_classes/25",
+        "o:id": 25
+    },
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Flood of 1889",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/94de44829ee9e941b0728d1b5a2d7d71087f0ba5.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/94de44829ee9e941b0728d1b5a2d7d71087f0ba5.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/94de44829ee9e941b0728d1b5a2d7d71087f0ba5.jpg"
+    }
+}

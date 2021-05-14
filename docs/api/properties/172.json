@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/172",
+    "@type": "o:Property",
+    "o:comment": "The underlying or 'focal' entity associated with some SKOS-described concept.",
+    "o:id": 172,
+    "o:label": "focus",
+    "o:local_name": "focus",
+    "o:term": "foaf:focus",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

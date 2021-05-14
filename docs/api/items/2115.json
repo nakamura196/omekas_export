@@ -1,0 +1,135 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2115",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Charles Willson Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2097",
+            "display_title": "Charles Willson Peale",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "thumbnail_title": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charles_Wilson_Peale_-_Self-Portrait_with_Angelica_and_Portrait_of_Rachel_-_Google_Art_Project.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "https://dev.omeka.org/omeka-s-sandbox/files/square/c53b9dd594b58b8c2e2fcf31dad890da1b40e9cc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2097,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1822",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "A self-portrait depicting Peale lifting the curtain before the entrance to his museum in Phialdelphia. The lower half of Peale's celebrated mastodon skeleton is visible on the right of the painting, behind a table covered in green cloth.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1871.1.2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:medium": [
+        {
+            "@value": "oil on canvas",
+            "is_public": true,
+            "property_id": 26,
+            "property_label": "Medium",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Philadelphia Museum of Art",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Artist in His Museum",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o-module-mapping:marker": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/mapping_markers/26",
+            "o:id": 26
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:49+00:00"
+    },
+    "o:id": 2115,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2131",
+            "o:id": 2131
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The Artist in His Museum",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/abc41d11f01a72d24b599f1404eca343544c763c.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/abc41d11f01a72d24b599f1404eca343544c763c.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/abc41d11f01a72d24b599f1404eca343544c763c.jpg"
+    }
+}

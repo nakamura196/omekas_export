@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/118",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 118,
+    "o:label": "sici",
+    "o:local_name": "sici",
+    "o:term": "bibo:sici",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1820",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:02+00:00"
+    },
+    "o:filename": "ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+    "o:id": 1820,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1800",
+        "o:id": 1800
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "a0d252113cb5a1def180af2651e5f1558cdf12752f47168d9959085388613a83",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/2/24/The_Adventure_of_the_Blue_Carbuncle_07.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ed12734f6241bae4a0ea1d967beaf23c882e5a4b.jpg"
+    }
+}

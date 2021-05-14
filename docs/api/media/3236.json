@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3236",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:date": [
+        {
+            "@value": "1927",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "http://www.flickr.com/photos/dcplcommons/4225800783",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:43+00:00"
+    },
+    "o:filename": "cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+    "o:id": 3236,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/891",
+        "o:id": 891
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "ce4b57e64bb821c3273a17795f8e303831350046a7925cd12fa6b415d07cfa54",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/c1f62edddcb135fb873c087567bf07b2.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cc3bba6705c0ec323dec9939a19057a862133721.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cc3bba6705c0ec323dec9939a19057a862133721.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cc3bba6705c0ec323dec9939a19057a862133721.jpg"
+    }
+}

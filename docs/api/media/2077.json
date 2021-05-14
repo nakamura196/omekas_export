@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2077",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Watercolour-and-pencil portrait of Jane Austen",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-01T17:22:48+00:00"
+    },
+    "o:filename": "a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+    "o:id": 2077,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2076",
+        "o:id": 2076
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "6c2cc49d7541e1036ae30be40db75a17b5a217fe9373e8dc66018ce4abfb1729",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg"
+    },
+    "o:title": "Watercolour-and-pencil portrait of Jane Austen",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a4b4c85d8a2e2545c70ed923c5450fdb754d422d.jpg"
+    }
+}

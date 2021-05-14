@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1855",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:10+00:00"
+    },
+    "o:filename": "c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+    "o:id": 1855,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1837",
+        "o:id": 1837
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "126e0c42446152491eb0a0b92244a1e3b6dbf351df83f81abaf0f70a48b9ea4f",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/4/45/JohnHWatson.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c1931959c4440d4cf923e25da6e95a27067013f6.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c1931959c4440d4cf923e25da6e95a27067013f6.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c1931959c4440d4cf923e25da6e95a27067013f6.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3019",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:publisher": [
+        {
+            "@value": "Montpelier Foundation",
+            "is_public": true,
+            "property_id": 5,
+            "property_label": "Publisher",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "This photograph is in the private collection of the family. Last known owner is Silvia Jennings Alexander. Permissions contact can be made through the Montpelier Foundation. ",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Paul Jennings",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:09+00:00"
+    },
+    "o:filename": "a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+    "o:id": 3019,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/424",
+        "o:id": 424
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "973afc53efdc9d1249efea87718c00b505cea3935ab6225d18df412fecc21060",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/9f50c055a6f15e74893dff301fa24e52.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg"
+    },
+    "o:title": "Paul Jennings",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/a028d2cad46bd1a979b2bd81cfd1d6ab6e323702.jpg"
+    }
+}

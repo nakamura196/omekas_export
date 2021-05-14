@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2224",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:title": [
+        {
+            "@value": "Portrait of Thomas Cole, American painter",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-10T20:59:27+00:00"
+    },
+    "o:filename": "abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+    "o:id": 2224,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2223",
+        "o:id": 2223
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "bbc8f6ae90ac1f5fdab402e4454e65f7f45b74b9cfde5abf32910f193879f2e1",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thomas_Cole.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/abfcb60cf43623ffbf01291289a5731abcfce447.jpg"
+    },
+    "o:title": "Portrait of Thomas Cole, American painter",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/abfcb60cf43623ffbf01291289a5731abcfce447.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/abfcb60cf43623ffbf01291289a5731abcfce447.jpg"
+    }
+}

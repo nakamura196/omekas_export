@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/40",
+    "@type": "o:Property",
+    "o:comment": "Spatial characteristics of the resource.",
+    "o:id": 40,
+    "o:label": "Spatial Coverage",
+    "o:local_name": "spatial",
+    "o:term": "dcterms:spatial",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/1",
+        "o:id": 1
+    }
+}

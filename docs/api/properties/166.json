@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/166",
+    "@type": "o:Property",
+    "o:comment": "A current project this person works on.",
+    "o:id": 166,
+    "o:label": "current project",
+    "o:local_name": "currentProject",
+    "o:term": "foaf:currentProject",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

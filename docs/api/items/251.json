@@ -1,0 +1,65 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/251",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "Demonstrates the YouTube Media type",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "YouTube Example",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T17:43:25+00:00"
+    },
+    "o:id": 251,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/248",
+            "o:id": 248
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/252",
+            "o:id": 252
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1939",
+            "o:id": 1939
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "YouTube Example",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/cff7ba24f0105688ff2a0b3f9460f3f156c88ddb.jpg"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1705",
+    "@type": "o:ItemSet",
+    "dcterms:description": [
+        {
+            "@value": "Items related to the Sherlock Holmes stories written by Arthur Conan Doyle",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Sherlockiana",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T14:11:16+00:00"
+    },
+    "o:id": 1705,
+    "o:is_open": true,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items?item_set_id=1705"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-01T17:20:59+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "Sherlockiana",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/caa5469083f7edccc08248f396499109798c7b6d.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/caa5469083f7edccc08248f396499109798c7b6d.jpg"
+    }
+}

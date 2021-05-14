@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/1829",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-26T16:19:05+00:00"
+    },
+    "o:filename": "ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+    "o:id": 1829,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1809",
+        "o:id": 1809
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "b90d5fdf7a4701ede0bfb0596658175a191209806e3e044b10a12b9ea6075ffa",
+    "o:size": null,
+    "o:source": "http://upload.wikimedia.org/wikipedia/commons/5/5f/Glor-02.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ba8cc1a1d1cd43762777f2bc70167fc1cd707653.jpg"
+    }
+}

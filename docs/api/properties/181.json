@@ -1,0 +1,14 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/properties/181",
+    "@type": "o:Property",
+    "o:comment": "Indicates the class of individuals that are a member of a Group",
+    "o:id": 181,
+    "o:label": "membershipClass",
+    "o:local_name": "membershipClass",
+    "o:term": "foaf:membershipClass",
+    "o:vocabulary": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/vocabularies/4",
+        "o:id": 4
+    }
+}

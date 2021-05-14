@@ -1,0 +1,101 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2295",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "This ballad portrays an imagined scenario in which Martha Washington arrives at the battle of Monmouth in 1778 and watches her heroic husband lead the charge to victory. George Washington was almost universally lionized as the hero of the Revolution soon after the war ended, as this ballad illustrates. It is also typical of a commonly portrayed scenario in which a male hero (often Washington himself) is seen as the protector of American female virtue (image courtesy American Antiquarian Society).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "broadside",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@id": "http://www.americanantiquarian.org/",
+            "is_public": true,
+            "o:label": "http://www.americanantiquarian.org/",
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "uri"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Evans Series",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Broadside ballad, Saw Ye My Hero George",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T17:04:41+00:00"
+    },
+    "o:id": 2295,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2296",
+            "o:id": 2296
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Broadside ballad, Saw Ye My Hero George",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/c9b1380b594b7791830141281e4737b2da474ff5.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/c9b1380b594b7791830141281e4737b2da474ff5.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/c9b1380b594b7791830141281e4737b2da474ff5.jpg"
+    }
+}

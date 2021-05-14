@@ -1,0 +1,53 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3240",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": " Printed in Dian Olson Belanger, \"Railroad in the Park: Washington's Baltimore Potomac Station,\" Washington History, Vol. 2, No. 1, Spring 1990.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:45+00:00"
+    },
+    "o:filename": "5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+    "o:id": 3240,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/895",
+        "o:id": 895
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "5bf7c664977fa44bdeb0f2800d81f5a9bfb9c5e5f2c0f9c3f92b654a1020af4c",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/85fadda6e4ae4f5beb6bf1939b9ab928.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/5d4144bfd10ee2ffb27e67a5231929907961c474.jpg"
+    }
+}

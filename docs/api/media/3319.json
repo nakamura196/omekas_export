@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3319",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:date": [
+        {
+            "@value": "01/01/1993",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The National Mall a seen from the atop the Washington Monument, as thousands of people turn out to see the American Reunion Celebration",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:08:21+00:00"
+    },
+    "o:filename": "ab5eae3d26e70d4970d40158a596221a6124ed63.jpeg",
+    "o:id": 3319,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/1022",
+        "o:id": 1022
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/ab5eae3d26e70d4970d40158a596221a6124ed63.jpeg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e69ee7a4310f687953c1d2e8881b7185e4f8a519433cfb4e7509fcf712195f55",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/a8fdcba5c83a3ca7ee382065a82e770d.jpeg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg"
+    },
+    "o:title": "The National Mall a seen from the atop the Washington Monument, as thousands of people turn out to see the American Reunion Celebration",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/ab5eae3d26e70d4970d40158a596221a6124ed63.jpg"
+    }
+}

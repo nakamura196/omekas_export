@@ -1,0 +1,99 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2113",
+    "@type": "o:Item",
+    "dcterms:creator": [
+        {
+            "@value": "Robert Feke",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2096",
+            "display_title": "Robert Feke",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 2096,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1741",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:medium": [
+        {
+            "@value": "oil on canvas",
+            "is_public": true,
+            "property_id": 26,
+            "property_label": "Medium",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@value": "public domain",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Portrait of Isaac Royal and Family",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T18:30:48+00:00"
+    },
+    "o:id": 2113,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/2093",
+            "o:id": 2093
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2129",
+            "o:id": 2129
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/3",
+        "o:id": 3
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/5",
+            "o:id": 5
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Portrait of Isaac Royal and Family",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/f3465d860339344ecf8e9d5af5894a2d2ab43cdb.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/f3465d860339344ecf8e9d5af5894a2d2ab43cdb.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/f3465d860339344ecf8e9d5af5894a2d2ab43cdb.jpg"
+    }
+}

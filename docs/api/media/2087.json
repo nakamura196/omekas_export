@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2087",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-02T15:59:46+00:00"
+    },
+    "o:filename": "d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+    "o:id": 2087,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2078",
+        "o:id": 2078
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/2",
+        "o:id": 2
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "e686b2e9742d8e47ea97d66abc90a296f47e5ed823d3befaa24ddb5928eb4ab5",
+    "o:size": null,
+    "o:source": "https://upload.wikimedia.org/wikipedia/commons/1/17/PrideAndPrejudiceTitlePage.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/d0caac79b6cabdf91fb76fe4e07393cb4739754f.jpg"
+    }
+}

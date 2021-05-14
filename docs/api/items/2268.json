@@ -1,0 +1,131 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2268",
+    "@type": "o:Item",
+    "dcterms:bibliographicCitation": [
+        {
+            "@value": "Smith, Eliza B. •\tThe Compleat housewife; or, Accomplish'd gentlewoman's companion, being a collection of upwards of six hundred of the most approved receipts in cookery, pastry ... with copper plates curiously engraven ... and also bills of fare for every month of the year, to which is added, a collection of above three hundred family receipts of medicines. TX705 .S53 1742b, rare books and special collections, Rockefeller Library.",
+            "is_public": true,
+            "property_id": 48,
+            "property_label": "Bibliographic Citation",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Eliza B. Smith",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1742",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "Originally published in London in 1727, Eliza Smith’s The Compleat Housewife was published in Williamsburg, Virginia in 1742. It is considered to be the first cookbook published in America. In addition to recipes, the work also contains instructions regarding many other household tasks for which the woman of the house was responsible, including dressing and smoking meats, cleaning the home, and providing remedies for a variety of illnesses (image courtesy of Rockefeller Library, Colonial Williamsburg Foundation).",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:format": [
+        {
+            "@value": "book",
+            "is_public": true,
+            "property_id": 9,
+            "property_label": "Format",
+            "type": "literal"
+        }
+    ],
+    "dcterms:language": [
+        {
+            "@value": "eng",
+            "is_public": true,
+            "property_id": 12,
+            "property_label": "Language",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rightsHolder": [
+        {
+            "@value": "Rockefeller Library, Colonial Williamsburg Foundation",
+            "is_public": true,
+            "property_id": 50,
+            "property_label": "Rights Holder",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "Daily life at Mount Vernon",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Eliza Smith, The Compleat Housewife",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:49:13+00:00"
+    },
+    "o:id": 2268,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/1910",
+            "o:id": 1910
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2269",
+            "o:id": 2269
+        },
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2270",
+            "o:id": 2270
+        }
+    ],
+    "o:modified": null,
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/resource_templates/4",
+        "o:id": 4
+    },
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Eliza Smith, The Compleat Housewife",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/4552061731b3b108420db93d5cfc77d97b4d23be.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/4552061731b3b108420db93d5cfc77d97b4d23be.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/4552061731b3b108420db93d5cfc77d97b4d23be.jpg"
+    }
+}

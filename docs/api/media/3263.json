@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3263",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:source": [
+        {
+            "@value": "National Photo Company Collection. http://www.loc.gov/pictures/item/2002695729/",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "25 March 1924",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:07:55+00:00"
+    },
+    "o:filename": "579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+    "o:id": 3263,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/916",
+        "o:id": 916
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "4b7e94a1c5c31459da979c77cb3a06ab64f3d7cf0e28aeae824af9a332368f00",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/5099f995a78d4cf1462059c7b054daee.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg"
+    },
+    "o:title": "25 March 1924",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/579c81729d4c6f14df8ae18f532e0cc52e3ab87e.jpg"
+    }
+}

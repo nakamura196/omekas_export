@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2359",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T19:57:03+00:00"
+    },
+    "o:filename": "562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+    "o:id": 2359,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2358",
+        "o:id": 2358
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "4aa902355153c9995e6da10e79694885d91a6ab21b373b9e142e12a38e9adfad",
+    "o:size": null,
+    "o:source": "snuff.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/562ff15af43e8acce17cee8719631bfc59e9e183.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/562ff15af43e8acce17cee8719631bfc59e9e183.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/562ff15af43e8acce17cee8719631bfc59e9e183.jpg"
+    }
+}

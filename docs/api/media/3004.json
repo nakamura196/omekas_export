@@ -1,0 +1,80 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3004",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:date": [
+        {
+            "@value": "08/28/1963",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "306-SSM-4D(107)8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Archives",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Civil Rights March on Washington, D.C. [Dr. Martin Luther King, Jr. speaking.], 08/28/1963",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:04+00:00"
+    },
+    "o:filename": "b972600ce54e9f31cb91bb5252119b3e6efce126.gif",
+    "o:id": 3004,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/409",
+        "o:id": 409
+    },
+    "o:lang": null,
+    "o:media_type": "image/gif",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/b972600ce54e9f31cb91bb5252119b3e6efce126.gif",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "207ef1eec39d41f9c40467c2523d8aaf74d4dc98725c28b0a09aa5b11e7832b5",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/9489d039fccd3719612efe5e710efb24.gif",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg"
+    },
+    "o:title": "Civil Rights March on Washington, D.C. [Dr. Martin Luther King, Jr. speaking.], 08/28/1963",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/b972600ce54e9f31cb91bb5252119b3e6efce126.jpg"
+    }
+}

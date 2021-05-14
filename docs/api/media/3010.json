@@ -1,0 +1,62 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/3010",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:identifier": [
+        {
+            "@value": "542064 ",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "National Archives at College Park - Still Pictures (RD-DC-S), National Archives at College Park ",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T16:06:06+00:00"
+    },
+    "o:filename": "0c877e54f087b0332d144fba38f4c90666789d0f.gif",
+    "o:id": 3010,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/415",
+        "o:id": 415
+    },
+    "o:lang": null,
+    "o:media_type": "image/gif",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/0c877e54f087b0332d144fba38f4c90666789d0f.gif",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "8142149e5dd3b5f2e19d8a79ae81e690146f08e58fc951b53e168e6a93bbb072",
+    "o:size": null,
+    "o:source": "http://mallhistory.org/files/original/add21f55b9bc9af11a42f85a6666a30f.gif",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0c877e54f087b0332d144fba38f4c90666789d0f.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/0c877e54f087b0332d144fba38f4c90666789d0f.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/0c877e54f087b0332d144fba38f4c90666789d0f.jpg"
+    }
+}

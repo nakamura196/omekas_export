@@ -1,0 +1,91 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/401",
+    "@type": "o:Item",
+    "dcterms:coverage": [
+        {
+            "@value": "1890-1919",
+            "is_public": true,
+            "property_id": 14,
+            "property_label": "Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:creator": [
+        {
+            "@value": "Lucy Burns",
+            "is_public": true,
+            "property_id": 2,
+            "property_label": "Creator",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "As a women's rights activist in the early 1900s, Burns organized political marches and rallies to pressure male lawmakers into passing a Constitutional amendment allowing women to vote. In 1913, she helped organize a suffrage march on Pennsylvania Avenue the day before Woodrow Wilson's inauguration. Burns and Alice Paul formed the National Women's Party in 1917 and continued to fight for women's right to vote. Burns was arrested with other members of the Party after picketing the White House in 1917. While in prison, she went on a hunger strike with Alice Paul to show their commitment to their cause. They won the fight in 1920 with the passage of the 19th Amendment.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:source": [
+        {
+            "@value": "Library of Congress Prints and Photographs Division. View original photograph.",
+            "is_public": true,
+            "property_id": 11,
+            "property_label": "Source",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "Lucy Burns",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-04-25T18:37:16+00:00"
+    },
+    "o:id": 401,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/item_sets/275",
+            "o:id": 275
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2996",
+            "o:id": 2996
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-06-05T20:36:14+00:00"
+    },
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://dev.omeka.org/omeka-s-sandbox/api/sites/4",
+            "o:id": 4
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Lucy Burns",
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/9efe58951643bc975e21740c9cc5b54beb5dd8c1.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/9efe58951643bc975e21740c9cc5b54beb5dd8c1.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/9efe58951643bc975e21740c9cc5b54beb5dd8c1.jpg"
+    }
+}

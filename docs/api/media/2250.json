@@ -1,0 +1,44 @@
+{
+    "@context": "https://dev.omeka.org/omeka-s-sandbox/api-context",
+    "@id": "https://dev.omeka.org/omeka-s-sandbox/api/media/2250",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2017-05-30T15:36:01+00:00"
+    },
+    "o:filename": "fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+    "o:id": 2250,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/items/2249",
+        "o:id": 2249
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": null,
+    "o:original_url": "https://dev.omeka.org/omeka-s-sandbox/files/original/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+    "o:owner": {
+        "@id": "https://dev.omeka.org/omeka-s-sandbox/api/users/8",
+        "o:id": 8
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "d4ab4989d49c3f37b1b786e1f88dce4a54d25e8be5db98e982231b47c5c184e6",
+    "o:size": null,
+    "o:source": "mezzotint.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg"
+    },
+    "o:title": null,
+    "thumbnail_display_urls": {
+        "large": "https://dev.omeka.org/omeka-s-sandbox/files/large/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+        "medium": "https://dev.omeka.org/omeka-s-sandbox/files/medium/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg",
+        "square": "https://dev.omeka.org/omeka-s-sandbox/files/square/fbdc3ba808e0536dba6ad2921ce37eaf36e303d9.jpg"
+    }
+}
